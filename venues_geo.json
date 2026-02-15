@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "updated_at": "2026-01-27T23:04:19+00:00Z",
+  "venues": {
+    "Auckland|09Thrive": {
+      "lat": -36.8797,
+      "lon": 174.7334,
+      "notes": ""
+    },
+    "Auckland|AUT": {
+      "lat": null,
+      "lon": null,
+      "notes": ""
+    },
+    "Auckland|FortKnox": {
+      "lat": -36.8614,
+      "lon": 174.7339,
+      "notes": ""
+    },
+    "Auckland|Hoop33": {
+      "lat": null,
+      "lon": null,
+      "notes": ""
+    },
+    "Auckland|The Physio Co": {
+      "lat": -36.7834,
+      "lon": 174.7427,
+      "notes": ""
+    },
+    "Auckland|The Y Akl": {
+      "lat": -36.8555,
+      "lon": 174.7593,
+      "notes": ""
+    },
+    "Chrsitchurch|Eadan Project": {
+      "lat": null,
+      "lon": null,
+      "notes": ""
+    },
+    "Hamilton|TBC": {
+      "lat": null,
+      "lon": null,
+      "notes": ""
+    },
+    "KeriKeri|Dance Vibes NZ": {
+      "lat": -35.2343,
+      "lon": 173.9522,
+      "notes": ""
+    },
+    "Otago|0": {
+      "lat": null,
+      "lon": null,
+      "notes": ""
+    },
+    "Otago|TBC": {
+      "lat": null,
+      "lon": null,
+      "notes": ""
+    },
+    "Tauranga|The Athlete Factory NZ": {
+      "lat": null,
+      "lon": null,
+      "notes": ""
+    },
+    "Wellington|TBC": {
+      "lat": null,
+      "lon": null,
+      "notes": ""
+    },
+    "Whangarei|House of Training": {
+      "lat": null,
+      "lon": null,
+      "notes": ""
+    }
+  }
+}
