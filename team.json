@@ -96,7 +96,7 @@
       "role": "Coach",
       "email": "awat@functionaladaptivemovement.com",
       "photo": "https://simonroberto.github.io/session-finder/photos/awat-kakai.jpg",
-      "bio": "",
+      "bio": "Hey everyone! I'm Awat - a physiotherapy student with an interest in neurological rehabilitation. My journey at FAM began on placement during my studies where I found a passion for adaptive coaching. I was inspired by the fulfilling FAM environment to stay on and volunteer which lead to coaching. Just like the rest of the amazing FAM crew, I strive to nurture the empowering, positive environment we create for the community. I love supporting each individual's unique journey in achieving their goals, celebrating every milestone along the way, and seeing the smiles that reflect confidence and discovering what is possible. Outside of coaching and studying, you'll find me on spontaneous adventures exploring NZ and chasing sunsets (always with my apple juice!)",
       "location": "Auckland",
       "sortOrder": 11
     },
@@ -117,6 +117,15 @@
       "bio": "Kia ora everyone! I am a passionate dance teacher dedicated to creating inclusive, supportive environments where individuals of all abilities can thrive. My journey in dance began at 15, where I relocated to Christchurch to pursue dancing full time. Through this I was fortunate enough to perform in Melbourne, Prague, New York, and tour through the South Island. After my dance career, I transitioned into early childhood education and discovered an immense calling for working with children with additional needs. This led me to pursue a bachelor's degree in teaching, with the intention of specializing in special education. With my qualifications in dance, special education, and early childhood education, I'm committed to fostering equitable environments where everyone can reach their full potential. I'm thrilled to be part of the FAM Jam team, empowering people to express themselves through movement and music-based therapy. I believe in creating a safe space where individuals can explore their social, emotional, and physical development, and I'm proud to offer a space where every dancer has the opportunity to grow and thrive. I'm incredibly grateful for the chance to help launch the first FAM Jam workshop in my hometown of Kerikeri, where I can combine my passions for dance and creating inclusive environments.",
       "location": "Kerikeri",
       "sortOrder": 13
+    },
+    {
+      "name": "Grace Dunn",
+      "role": "FAM™ Jam Coach",
+      "email": "grace@functionaladaptivemovement.com",
+      "photo": "https://simonroberto.github.io/session-finder/photos/grace-dunn.jpg",
+      "bio": "Hi everyone! My name is Grace, and I am a dance teacher from West Auckland. My passion for dance began at 3 years old when I was first put into preschool classes. I have studied many styles over the years, including ballet, jazz, tap, hip hop, lyrical, and contemporary. Since then, my love of dance has continued to grow, and I eventually found my passion for teaching. I enjoy combining the technical and creative sides of dance, teaching strong foundations and technique, while also promoting creativity from my students. My aim is to support and encourage students to communicate their ideas or feelings through dance. I have recently graduated with a Bachelor of Science in Medicinal Chemistry from The University of Auckland. This degree helped develop my knowledge and understanding of the human body, and further grew my interest in the health field. It has encouraged me to teach my students healthy habits and safe techniques, to support their growth and strength for dance. My biggest inspirations have been my past dance teachers, and I want to continue to share my knowledge with all of my students. I am very excited to be apart of the FAM JAM team, and continue to help people use dance and movement as a creative outlet.",
+      "location": "Auckland",
+      "sortOrder": 14
     },
     {
       "name": "Ollie Smith",
