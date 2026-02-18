@@ -1,0 +1,3 @@
+SessionID,Day,Time,DurationMin,Venue,Address,City,Latitude,Longitude,Coach,Program,Type,Capacity,Notes
+S001,Monday,08:00,60,Test Venue,123 Main St,Auckland,-36.8485,174.7633,Test Coach,FAM Strength,Group,10,Test session
+S002,Tuesday,18:00,45,Test Venue 2,456 Queen St,Auckland,-36.8500,174.7650,Test Coach 2,FAM Mobility,Group,12,Evening class

@@ -1,0 +1,11 @@
+SessionID,Day,Time,DurationMin,Venue,Address,City,Latitude,Longitude,Coach,Program,Type,Capacity,Notes
+S001,Monday,08:00,60,Auckland Central YMCA,12 Pitt Street,Auckland,-36.8485,174.7633,John Smith,FAM Strength,Group,15,Morning class
+S002,Monday,18:30,60,Auckland Central YMCA,12 Pitt Street,Auckland,-36.8485,174.7633,Sarah Jones,FAM Mobility,Group,12,Evening class
+S003,Tuesday,06:00,45,Crossfit Albany,123 Albany Highway,Albany,-36.7333,174.7000,Mike Chen,FAM HIIT,Group,10,Early birds
+S004,Tuesday,17:00,60,Crossfit Albany,123 Albany Highway,Albany,-36.7333,174.7000,Mike Chen,FAM Strength,Group,15,After work
+S005,Wednesday,12:00,45,Mt Eden Fitness,456 Dominion Road,Mt Eden,-36.8833,174.7600,Sarah Jones,FAM Express,Group,8,Lunch session
+S006,Wednesday,19:00,60,Mt Eden Fitness,456 Dominion Road,Mt Eden,-36.8833,174.7600,John Smith,FAM Conditioning,Group,12,Evening
+S007,Thursday,08:30,60,Takapuna Beach,The Strand,Takapuna,-36.7833,174.7667,Emma Wilson,FAM Outdoor,Group,20,Beach workout
+S008,Thursday,18:00,60,Auckland Central YMCA,12 Pitt Street,Auckland,-36.8485,174.7633,John Smith,FAM Strength,Group,15,Repeat Monday
+S009,Friday,06:30,45,Crossfit Albany,123 Albany Highway,Albany,-36.7333,174.7000,Mike Chen,FAM Finisher,Group,12,Friday burn
+S010,Saturday,09:00,90,Takapuna Beach,The Strand,Takapuna,-36.7833,174.7667,Emma Wilson,FAM Outdoor,Group,25,Weekend warrior
