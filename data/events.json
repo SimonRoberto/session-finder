@@ -7,7 +7,7 @@
     "extendedProps": {
       "City": "Auckland",
       "Venue": "The Y Akl",
-      "Coach": null,
+      "Coach": "Michael Hynard",
       "Program": "FAM Program",
       "Type": "APPOINTMENT",
       "Capacity": 10,
