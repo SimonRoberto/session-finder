@@ -3,7 +3,7 @@
    For: Week Manager, Coach Manager, Operations Dashboard,
         Session Template Manager (staff-only tools)
    Requires: fam-base.css loaded first
-   Hosted at: https://simonroberto.github.io/session-finder/assets/fam-internal.css
+   Hosted at: https://simonroberto.github.io/fam-digital/assets/fam-internal.css
    ═══════════════════════════════════════════════════════════════ */
 
 /* Internal tools: same brand, slightly cooler/denser feel */
@@ -20,11 +20,17 @@
 /* ── INTERNAL NAV — dark teal bar ── */
 .fam-nav {
   background: var(--fam-primary-dark);
-  border-bottom-color: rgba(255,255,255,0.06);
+  border-bottom-color: transparent;
+  border-radius: var(--radius-lg);
+  margin: 10px 16px 0;
+  width: calc(100% - 32px);
+  position: sticky;
+  top: 10px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.18);
 }
-.fam-nav__name    { color: #fff; }
+.fam-nav__name    { color: #fff; font-size: 16px; }
 .fam-nav__tagline { color: rgba(255,255,255,0.5); }
-.fam-nav__logo    { background: rgba(255,255,255,0.12); }
+.fam-nav__logo    { display: none; }
 
 .fam-nav__links a {
   color: rgba(255,255,255,0.72);
