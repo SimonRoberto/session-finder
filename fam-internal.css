@@ -1,0 +1,374 @@
+/* ═══════════════════════════════════════════════════════════════
+   FAM INTERNAL CSS  —  fam-internal.css
+   For: Week Manager, Coach Manager, Operations Dashboard,
+        Session Template Manager (staff-only tools)
+   Requires: fam-base.css loaded first
+   Hosted at: https://simonroberto.github.io/session-finder/assets/fam-internal.css
+   ═══════════════════════════════════════════════════════════════ */
+
+/* Internal tools: same brand, slightly cooler/denser feel */
+:root {
+  --fam-bg:       #EEF2F4;   /* slightly cooler than external */
+  --nav-bg:       var(--fam-primary-dark);
+  --nav-border:   rgba(255,255,255,0.08);
+
+  /* Internal nav text colours (inverted on dark bg) */
+  --nav-text:     rgba(255,255,255,0.85);
+  --nav-link-active-bg: rgba(255,255,255,0.12);
+}
+
+/* ── INTERNAL NAV — dark teal bar ── */
+.fam-nav {
+  background: var(--fam-primary-dark);
+  border-bottom-color: rgba(255,255,255,0.06);
+}
+.fam-nav__name    { color: #fff; }
+.fam-nav__tagline { color: rgba(255,255,255,0.5); }
+.fam-nav__logo    { background: rgba(255,255,255,0.12); }
+
+.fam-nav__links a {
+  color: rgba(255,255,255,0.72);
+}
+.fam-nav__links a:hover {
+  background: rgba(255,255,255,0.1);
+  color: #fff;
+}
+.fam-nav__links a.active {
+  background: rgba(255,255,255,0.14);
+  color: #fff;
+}
+.fam-nav__divider { background: rgba(255,255,255,0.12); }
+
+/* Internal badge — subtle on dark nav */
+.fam-nav__badge {
+  background: rgba(255,255,255,0.1);
+  color: rgba(255,255,255,0.8);
+  border-color: rgba(255,255,255,0.15);
+}
+.fam-nav__badge::before { background: var(--fam-accent); }
+
+/* Hamburger on dark bg */
+.fam-nav__hamburger span { background: rgba(255,255,255,0.85); }
+
+/* ── PANEL (the main building block for internal tools) ── */
+.fam-panel {
+  background: var(--fam-bg-white);
+  border: 1px solid var(--fam-border);
+  border-radius: var(--radius);
+  padding: var(--sp-6);
+  margin-bottom: var(--sp-4);
+  box-shadow: var(--shadow-xs);
+}
+.fam-panel--compact { padding: var(--sp-4) var(--sp-5); }
+.fam-panel--flush   { padding: 0; overflow: hidden; }
+
+.fam-panel__title {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--fam-primary);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: var(--sp-5);
+  padding-bottom: var(--sp-3);
+  border-bottom: 2px solid var(--fam-primary);
+  display: flex;
+  align-items: center;
+  gap: var(--sp-2);
+}
+
+/* ── WORKFLOW BANNER ── */
+.fam-workflow {
+  background: var(--fam-bg-white);
+  border: 1px solid var(--fam-border);
+  border-radius: var(--radius);
+  padding: 13px var(--sp-5);
+  margin-bottom: var(--sp-4);
+  display: flex;
+  align-items: center;
+  gap: var(--sp-3);
+  flex-wrap: wrap;
+  font-size: 12px;
+  color: var(--fam-text-light);
+}
+.fam-workflow strong { color: var(--fam-primary); font-size: 12px; white-space: nowrap; }
+.fam-workflow__step {
+  background: var(--fam-primary);
+  color: #fff;
+  padding: 3px 10px;
+  border-radius: var(--radius-pill);
+  font-size: 11px;
+  font-weight: 700;
+  white-space: nowrap;
+  transition: background var(--duration-sm);
+}
+.fam-workflow__step.active { background: var(--fam-accent); }
+.fam-workflow__arrow { color: var(--fam-border); font-size: 14px; }
+
+/* ── STATUS BAR ── */
+.fam-status-bar {
+  background: var(--fam-bg-white);
+  border: 1px solid var(--fam-border);
+  border-radius: var(--radius);
+  padding: 13px var(--sp-5);
+  margin-bottom: var(--sp-4);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--sp-4);
+}
+.fam-status-item {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-2);
+  font-size: 13px;
+  color: var(--fam-text-light);
+  font-weight: 500;
+}
+.fam-status-item strong {
+  color: var(--fam-primary);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+/* ── INTERNAL TABLE ── */
+.fam-table-wrap {
+  overflow-x: auto;
+  border-radius: var(--radius);
+  border: 1px solid var(--fam-border);
+}
+.fam-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+}
+.fam-table thead {
+  background: var(--fam-bg-subtle);
+  position: sticky;
+  top: 0;
+  z-index: 5;
+}
+.fam-table th {
+  padding: 11px 10px;
+  text-align: left;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--fam-primary);
+  border-bottom: 2px solid var(--fam-primary);
+  white-space: nowrap;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+}
+.fam-table td {
+  padding: 9px 10px;
+  border-bottom: 1px solid var(--fam-border);
+  vertical-align: middle;
+}
+.fam-table tr:last-child td { border-bottom: none; }
+.fam-table tr:hover td { background: rgba(44,95,93,0.025); }
+.fam-table td input,
+.fam-table td select {
+  width: 100%;
+  padding: 5px 7px;
+  font-size: 12px;
+  border: 1px solid transparent;
+  border-radius: var(--radius-sm);
+  font-family: var(--font-sans);
+  background: transparent;
+  transition: all var(--duration-xs);
+}
+.fam-table td input:focus,
+.fam-table td select:focus {
+  border-color: var(--fam-primary);
+  background: var(--fam-bg-white);
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(44,95,93,0.1);
+}
+.fam-table .row-changed { background: rgba(217,119,6,0.04) !important; }
+.fam-table .row-changed td:first-child { border-left: 3px solid var(--fam-warning); }
+
+/* Editable cells */
+.fam-table td.cell-edit { cursor: text; }
+.fam-table td.cell-edit:hover { background: rgba(44,95,93,0.06) !important; }
+.fam-table td.cell-edit:focus {
+  outline: 2px solid var(--fam-primary);
+  outline-offset: -2px;
+  background: #FAFFFE !important;
+}
+
+/* ── STAT CARD ── */
+.fam-stat-card {
+  background: var(--fam-bg-white);
+  border: 1px solid var(--fam-border);
+  border-radius: var(--radius);
+  padding: var(--sp-5);
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-2);
+  box-shadow: var(--shadow-xs);
+}
+.fam-stat-card__label {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: var(--fam-text-light);
+}
+.fam-stat-card__value {
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--fam-primary);
+  line-height: 1;
+  letter-spacing: -1px;
+}
+.fam-stat-card__sub {
+  font-size: 12px;
+  color: var(--fam-text-light);
+}
+.fam-stat-card__trend {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  font-size: 11px;
+  font-weight: 700;
+}
+.fam-stat-card__trend--up   { color: var(--fam-success); }
+.fam-stat-card__trend--down { color: var(--fam-danger); }
+
+/* ── VIEW TABS (sessions / map) ── */
+.fam-view-tabs {
+  display: flex;
+  gap: var(--sp-1);
+  border-bottom: 2px solid var(--fam-border);
+  margin-bottom: var(--sp-5);
+}
+.fam-view-tab {
+  padding: 9px 20px;
+  background: none;
+  border: none;
+  border-bottom: 3px solid transparent;
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--fam-text-light);
+  font-size: 13px;
+  font-family: var(--font-sans);
+  margin-bottom: -2px;
+  transition: all var(--duration-sm);
+  white-space: nowrap;
+}
+.fam-view-tab.active { color: var(--fam-primary); border-bottom-color: var(--fam-accent); }
+.fam-view-tab:hover  { color: var(--fam-primary); }
+
+/* ── DIFF COLOURS (import preview) ── */
+.diff-add { color: var(--fam-success); font-weight: 600; }
+.diff-chg { color: var(--fam-warning); font-weight: 600; }
+
+/* ── ZOHO HINT BOX ── */
+.fam-zoho-hint {
+  background: #FFF7F2;
+  border: 1px solid #F5C9A8;
+  border-radius: var(--radius);
+  padding: 11px 14px;
+  font-size: 12px;
+  color: #7A3200;
+  margin-top: var(--sp-3);
+}
+.fam-zoho-hint code {
+  background: rgba(0,0,0,0.07);
+  padding: 1px 5px;
+  border-radius: 4px;
+  font-family: var(--font-mono);
+}
+
+/* ── FULLSCREEN OVERLAY ── */
+.fam-fullscreen {
+  position: fixed;
+  inset: 0;
+  z-index: 900;
+  background: var(--fam-bg-white);
+  display: flex;
+  flex-direction: column;
+}
+.fam-fullscreen__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 11px var(--sp-5);
+  background: var(--fam-primary);
+  color: #fff;
+  flex-shrink: 0;
+}
+.fam-fullscreen__header h3 { font-size: 14px; font-weight: 700; margin: 0; }
+.fam-fullscreen__filters {
+  display: flex;
+  gap: var(--sp-3);
+  padding: 9px var(--sp-4);
+  background: var(--fam-bg-subtle);
+  border-bottom: 1px solid var(--fam-border);
+  flex-shrink: 0;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.fam-fullscreen__filters select,
+.fam-fullscreen__filters input {
+  padding: 5px 9px;
+  font-size: 12px;
+  border-radius: var(--radius-sm);
+  border: 1.5px solid var(--fam-border);
+  font-family: var(--font-sans);
+  background: var(--fam-bg-white);
+}
+.fam-fullscreen__filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+.fam-fullscreen__filter-group label {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--fam-text-light);
+  letter-spacing: 0.4px;
+}
+.fam-fullscreen__body { flex: 1; overflow: auto; }
+
+/* ── PAGE HEADER (internal) ── */
+.fam-page-header {
+  background: linear-gradient(135deg, var(--fam-primary) 0%, var(--fam-primary-dark) 100%);
+  padding: var(--sp-8) var(--sp-8);
+  border-radius: var(--radius-lg);
+  margin-bottom: var(--sp-5);
+  box-shadow: 0 6px 24px rgba(44,95,93,0.2);
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--sp-4);
+}
+.fam-page-header__eyebrow {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  opacity: 0.65;
+  margin-bottom: var(--sp-1);
+}
+.fam-page-header h1 {
+  font-size: clamp(22px, 3vw, 30px);
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  color: #fff;
+  margin-bottom: var(--sp-1);
+}
+.fam-page-header p { font-size: 13px; opacity: 0.78; color: rgba(255,255,255,0.8); }
+
+/* ── RESPONSIVE (internal) ── */
+@media (max-width: 768px) {
+  .fam-panel { padding: var(--sp-4); }
+  .fam-page-header { padding: var(--sp-5); border-radius: var(--radius); }
+  .fam-page-header h1 { font-size: 22px; }
+  .fam-status-bar { flex-direction: column; align-items: flex-start; }
+  .fam-fullscreen__filters { gap: var(--sp-2); }
+}
