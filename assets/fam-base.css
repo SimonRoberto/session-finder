@@ -7,10 +7,10 @@
 /* ── DESIGN TOKENS ── */
 :root {
   /* Brand palette */
-  --fam-primary:       #2C5F5D;
-  --fam-primary-dark:  #1E4644;
-  --fam-primary-light: #3A7775;
-  --fam-primary-tint:  rgba(44, 95, 93, 0.08);
+  --fam-primary:       #08A197;
+  --fam-primary-dark:  #067069;
+  --fam-primary-light: #32B8AF;
+  --fam-primary-tint:  rgba(8, 161, 151, 0.08);
   --fam-accent:        #E85D3F;
   --fam-accent-hover:  #D04A2D;
   --fam-accent-tint:   rgba(232, 93, 63, 0.10);
@@ -278,7 +278,7 @@ button, input, select, textarea { font-family: inherit; }
 /* ══════════════════════════════════════════════
    TYPOGRAPHY
 ══════════════════════════════════════════════ */
-h1, h2, h3, h4, h5, h6 { line-height: 1.2; letter-spacing: -0.3px; font-weight: 700; }
+h1, h2, h3, h4, h5, h6 { line-height: 1.2; letter-spacing: -0.3px; font-weight: 700; color: var(--fam-primary); }
 h1 { font-size: clamp(26px, 4vw, 40px); }
 h2 { font-size: clamp(20px, 3vw, 28px); }
 h3 { font-size: 20px; }
