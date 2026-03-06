@@ -15,8 +15,7 @@
         "zoe-taylor",
         "grace-dunn",
         "brianna-king",
-        "havana-beal",
-        "grace-dunn"
+        "havana-beal"
       ]
     },
     {
@@ -299,16 +298,6 @@
       "location": "Bristol, UK",
       "sortOrder": 22,
       "id": "becca-percy"
-    },
-    {
-      "name": "Grace Dunn",
-      "role": "FAM™ Jam Coach",
-      "email": "grace@functionaladaptivemovement.com",
-      "photo": "grace-dunn.jpg",
-      "bio": "Hi everyone! My name is Grace, and I am a dance teacher from West Auckland. My passion for dance began at 3 years old when I was first put into preschool classes. I have studied many styles over the years, including ballet, jazz, tap, hip hop, lyrical, and contemporary. Since then, my love of dance has continued to grow, and I eventually found my passion for teaching. I enjoy combining the technical and creative sides of dance, teaching strong foundations and technique, while also promoting creativity from my students. My aim is to support and encourage students to communicate their ideas or feelings through dance. I have recently graduated with a Bachelor of Science in Medicinal Chemistry from The University of Auckland. This degree helped develop my knowledge and understanding of the human body, and further grew my interest in the health field. It has encouraged me to teach my students healthy habits and safe techniques, to support their growth and strength for dance. My biggest inspirations have been my past dance teachers, and I want to continue to share my knowledge with all of my students. I am very excited to be apart of the FAM JAM team, and continue to help people use dance and movement as a creative outlet.",
-      "location": "Auckland",
-      "sortOrder": 14,
-      "id": "grace-dunn"
     }
   ]
 }
