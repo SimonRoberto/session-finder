@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "version": "1.0",
+    "lastUpdated": "2026-03-09",
+    "note": "Programs per venue to be confirmed. Bristol venues to be added."
+  },
+  "locations": [
+    {
+      "id": "auckland-09thrive",
+      "name": "09 Thrive",
+      "city": "Auckland",
+      "country": "NZ",
+      "address": "2/49 Sainsbury Road, Mount Albert, Auckland",
+      "lat": -36.8858,
+      "lng": 174.7160,
+      "programs": [],
+      "notes": ""
+    },
+    {
+      "id": "auckland-physio-co",
+      "name": "The Physio Co",
+      "city": "Auckland",
+      "country": "NZ",
+      "address": "46a Porana Rd, Wairua Valley, Auckland",
+      "lat": -36.7782,
+      "lng": 174.7385,
+      "programs": [],
+      "notes": ""
+    },
+    {
+      "id": "auckland-hoop33",
+      "name": "Hoop33",
+      "city": "Auckland",
+      "country": "NZ",
+      "address": "165-169 Target Road, Wairau Valley, Auckland",
+      "lat": -36.7750,
+      "lng": 174.7370,
+      "programs": [],
+      "notes": ""
+    },
+    {
+      "id": "auckland-aut-northshore",
+      "name": "AUT North Shore Campus (Gym)",
+      "city": "Auckland",
+      "country": "NZ",
+      "address": "AH Building, 90 Akoranga Drive, Northcote, Auckland",
+      "lat": -36.7900,
+      "lng": 174.7500,
+      "programs": [],
+      "notes": ""
+    },
+    {
+      "id": "auckland-ymca",
+      "name": "The Y Auckland",
+      "city": "Auckland",
+      "country": "NZ",
+      "address": "149 Greys Avenue, Auckland Central, Auckland",
+      "lat": -36.8545,
+      "lng": 174.7630,
+      "programs": [],
+      "notes": ""
+    },
+    {
+      "id": "auckland-uoa",
+      "name": "University of Auckland",
+      "city": "Auckland",
+      "country": "NZ",
+      "address": "Building 907, Department of Exercise Sciences, Suiter Street, Newmarket, Auckland",
+      "lat": -36.8641,
+      "lng": 174.7700,
+      "programs": [],
+      "notes": "FAM™TŪI only"
+    },
+    {
+      "id": "christchurch-eaden",
+      "name": "Eaden Project",
+      "city": "Christchurch",
+      "country": "NZ",
+      "address": "205a Wordsworth Street, Christchurch Central City, Christchurch 8023",
+      "lat": -43.5341,
+      "lng": 172.6343,
+      "programs": [],
+      "notes": ""
+    },
+    {
+      "id": "whangarei-hot",
+      "name": "House of Training",
+      "city": "Whangārei",
+      "country": "NZ",
+      "address": "17 Finlayson Street, Whangārei",
+      "lat": -35.7256,
+      "lng": 174.3240,
+      "programs": [],
+      "notes": ""
+    },
+    {
+      "id": "kerikeri-venue",
+      "name": "Kerikeri Venue",
+      "city": "Kerikeri",
+      "country": "NZ",
+      "address": "22 Sammaree Place, Kerikeri",
+      "lat": -35.2235,
+      "lng": 173.9550,
+      "programs": [],
+      "notes": "FAM™JAM only"
+    },
+    {
+      "id": "bristol-tbc-01",
+      "name": "Bristol Venue",
+      "city": "Bristol",
+      "country": "UK",
+      "address": "",
+      "lat": 51.4545,
+      "lng": -2.5879,
+      "programs": [],
+      "notes": "Venue details to be confirmed"
+    }
+  ]
+}
