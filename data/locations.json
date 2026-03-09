@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0",
+    "version": "1.2",
     "lastUpdated": "2026-03-09",
-    "note": "Programs per venue to be confirmed. Bristol venues to be added."
+    "note": "Programs per venue to be confirmed. Coach-venue assignments based on location field in team.json — please review and adjust as needed."
   },
   "locations": [
     {
@@ -14,6 +14,7 @@
       "lat": -36.8858,
       "lng": 174.7160,
       "programs": [],
+      "coaches": [],
       "notes": ""
     },
     {
@@ -25,6 +26,7 @@
       "lat": -36.7782,
       "lng": 174.7385,
       "programs": [],
+      "coaches": [],
       "notes": ""
     },
     {
@@ -36,6 +38,7 @@
       "lat": -36.7750,
       "lng": 174.7370,
       "programs": [],
+      "coaches": [],
       "notes": ""
     },
     {
@@ -47,6 +50,9 @@
       "lat": -36.7900,
       "lng": 174.7500,
       "programs": [],
+      "coaches": [
+        "kieran-cordelle"
+      ],
       "notes": ""
     },
     {
@@ -58,6 +64,7 @@
       "lat": -36.8545,
       "lng": 174.7630,
       "programs": [],
+      "coaches": [],
       "notes": ""
     },
     {
@@ -69,6 +76,10 @@
       "lat": -36.8641,
       "lng": 174.7700,
       "programs": [],
+      "coaches": [
+        "merryn-robertson",
+        "michael-hynard"
+      ],
       "notes": "FAM™TŪI only"
     },
     {
@@ -80,6 +91,10 @@
       "lat": -43.5341,
       "lng": 172.6343,
       "programs": [],
+      "coaches": [
+        "shaney-olivier",
+        "ollie-smith"
+      ],
       "notes": ""
     },
     {
@@ -91,6 +106,9 @@
       "lat": -35.7256,
       "lng": 174.3240,
       "programs": [],
+      "coaches": [
+        "renee-thornley"
+      ],
       "notes": ""
     },
     {
@@ -102,6 +120,9 @@
       "lat": -35.2235,
       "lng": 173.9550,
       "programs": [],
+      "coaches": [
+        "zoe-taylor"
+      ],
       "notes": "FAM™JAM only"
     },
     {
@@ -113,7 +134,12 @@
       "lat": 51.4545,
       "lng": -2.5879,
       "programs": [],
+      "coaches": [
+        "becca-percy"
+      ],
       "notes": "Venue details to be confirmed"
     }
   ]
 }
+
+
