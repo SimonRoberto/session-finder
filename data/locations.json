@@ -1,9 +1,5 @@
 {
-  "meta": {
-    "version": "1.2",
-    "lastUpdated": "2026-03-09",
-    "note": "Programs per venue to be confirmed. Coach-venue assignments based on location field in team.json — please review and adjust as needed."
-  },
+  "updated": "2026-03-09",
   "locations": [
     {
       "id": "auckland-09thrive",
@@ -12,10 +8,11 @@
       "country": "NZ",
       "address": "2/49 Sainsbury Road, Mount Albert, Auckland",
       "lat": -36.8858,
-      "lng": 174.7160,
+      "lng": 174.716,
       "programs": [],
       "coaches": [],
-      "notes": ""
+      "photo": "",
+      "notes": "Coach assignments pending — Michael to confirm"
     },
     {
       "id": "auckland-physio-co",
@@ -27,7 +24,8 @@
       "lng": 174.7385,
       "programs": [],
       "coaches": [],
-      "notes": ""
+      "photo": "",
+      "notes": "Coach assignments pending — Michael to confirm"
     },
     {
       "id": "auckland-hoop33",
@@ -35,11 +33,12 @@
       "city": "Auckland",
       "country": "NZ",
       "address": "165-169 Target Road, Wairau Valley, Auckland",
-      "lat": -36.7750,
-      "lng": 174.7370,
+      "lat": -36.775,
+      "lng": 174.737,
       "programs": [],
       "coaches": [],
-      "notes": ""
+      "photo": "",
+      "notes": "Coach assignments pending — Michael to confirm"
     },
     {
       "id": "auckland-aut-northshore",
@@ -47,12 +46,15 @@
       "city": "Auckland",
       "country": "NZ",
       "address": "AH Building, 90 Akoranga Drive, Northcote, Auckland",
-      "lat": -36.7900,
-      "lng": 174.7500,
-      "programs": [],
+      "lat": -36.79,
+      "lng": 174.75,
+      "programs": [
+        "fam-program"
+      ],
       "coaches": [
         "kieran-cordelle"
       ],
+      "photo": "",
       "notes": ""
     },
     {
@@ -62,10 +64,11 @@
       "country": "NZ",
       "address": "149 Greys Avenue, Auckland Central, Auckland",
       "lat": -36.8545,
-      "lng": 174.7630,
+      "lng": 174.763,
       "programs": [],
       "coaches": [],
-      "notes": ""
+      "photo": "",
+      "notes": "Coach assignments pending — Michael to confirm"
     },
     {
       "id": "auckland-uoa",
@@ -74,12 +77,15 @@
       "country": "NZ",
       "address": "Building 907, Department of Exercise Sciences, Suiter Street, Newmarket, Auckland",
       "lat": -36.8641,
-      "lng": 174.7700,
-      "programs": [],
+      "lng": 174.77,
+      "programs": [
+        "fam-tui"
+      ],
       "coaches": [
         "merryn-robertson",
         "michael-hynard"
       ],
+      "photo": "",
       "notes": "FAM™TŪI only"
     },
     {
@@ -90,12 +96,50 @@
       "address": "205a Wordsworth Street, Christchurch Central City, Christchurch 8023",
       "lat": -43.5341,
       "lng": 172.6343,
-      "programs": [],
+      "programs": [
+        "fam-program"
+      ],
       "coaches": [
         "shaney-olivier",
         "ollie-smith"
       ],
+      "photo": "",
       "notes": ""
+    },
+    {
+      "id": "tauranga-placeholder",
+      "name": "Tauranga Venue",
+      "city": "Tauranga",
+      "country": "NZ",
+      "address": "",
+      "lat": -37.6878,
+      "lng": 176.1651,
+      "programs": [
+        "fam-program"
+      ],
+      "coaches": [
+        "diogo-freire",
+        "jacqueline-hay"
+      ],
+      "photo": "",
+      "notes": "Placeholder — venue details to be confirmed"
+    },
+    {
+      "id": "dunedin-placeholder",
+      "name": "Dunedin Venue",
+      "city": "Dunedin",
+      "country": "NZ",
+      "address": "",
+      "lat": -45.8788,
+      "lng": 170.5028,
+      "programs": [
+        "fam-program"
+      ],
+      "coaches": [
+        "connor-dann"
+      ],
+      "photo": "",
+      "notes": "Placeholder — venue details to be confirmed"
     },
     {
       "id": "whangarei-hot",
@@ -104,11 +148,14 @@
       "country": "NZ",
       "address": "17 Finlayson Street, Whangārei",
       "lat": -35.7256,
-      "lng": 174.3240,
-      "programs": [],
+      "lng": 174.324,
+      "programs": [
+        "fam-program"
+      ],
       "coaches": [
         "renee-thornley"
       ],
+      "photo": "",
       "notes": ""
     },
     {
@@ -118,11 +165,14 @@
       "country": "NZ",
       "address": "22 Sammaree Place, Kerikeri",
       "lat": -35.2235,
-      "lng": 173.9550,
-      "programs": [],
+      "lng": 173.955,
+      "programs": [
+        "fam-jam"
+      ],
       "coaches": [
         "zoe-taylor"
       ],
+      "photo": "",
       "notes": "FAM™JAM only"
     },
     {
@@ -133,13 +183,14 @@
       "address": "",
       "lat": 51.4545,
       "lng": -2.5879,
-      "programs": [],
+      "programs": [
+        "fam-program"
+      ],
       "coaches": [
         "becca-percy"
       ],
+      "photo": "",
       "notes": "Venue details to be confirmed"
     }
   ]
 }
-
-
