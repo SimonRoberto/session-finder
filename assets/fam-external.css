@@ -239,3 +239,8 @@
   gap: var(--sp-3);
   font-size: 12px;
 }
+/* ── Code snippet section padding reset ── */
+.zpsection:has(.zpcont-full-stretch) {
+  padding-block-start: 8px !important;
+  padding-block-end: 8px !important;
+}
