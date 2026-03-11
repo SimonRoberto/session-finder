@@ -36,6 +36,14 @@
       "href": "https://www.adaptx.co.nz",
       "description": "Adaptive sports and recreation",
       "sortOrder": 60
+    },
+    {
+      "id": "upsidedowns",
+      "name": "upsidedowns",
+      "src": "upsidedowns.png",
+      "href": "https://www.upsidedowns.co.nz",
+      "description": "Giving a Voice to Kiwi Kids with Down syndrome",
+      "sortOrder": 70
     }
   ]
 }
