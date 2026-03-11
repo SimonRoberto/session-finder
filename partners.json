@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12",
+  "updated": "2026-03-11",
   "config": {
     "repoBaseUrl": "https://simonroberto.github.io/session-finder",
     "logosPath": "/partner_logos"
@@ -8,7 +8,7 @@
     {
       "id": "ka-taku-reo",
       "name": "Ka Taku Reo",
-      "src": "ka-taku-reo.png",
+      "src": "ko-taku-reo.png",
       "href": "https://katakureo.org.nz",
       "description": "Deaf education and communication support",
       "sortOrder": 10
