@@ -7,19 +7,11 @@
   "partners": [
     {
       "id": "ka-taku-reo",
-      "name": "Ka Taku Reo",
+      "name": "Ko Taku Reo",
       "src": "ko-taku-reo.png",
       "href": "https://katakureo.org.nz",
       "description": "Deaf education and communication support",
       "sortOrder": 10
-    },
-    {
-      "id": "partner-2",
-      "name": "Partner",
-      "src": "partner-2.png",
-      "href": "#",
-      "description": "",
-      "sortOrder": 20
     },
     {
       "id": "geneva-healthcare",
