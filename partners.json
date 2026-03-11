@@ -1,0 +1,57 @@
+{
+  "updated": "2026-03-12",
+  "config": {
+    "repoBaseUrl": "https://simonroberto.github.io/session-finder",
+    "logosPath": "/partner_logos"
+  },
+  "partners": [
+    {
+      "id": "ka-taku-reo",
+      "name": "Ka Taku Reo",
+      "src": "ka-taku-reo.png",
+      "href": "https://katakureo.org.nz",
+      "description": "Deaf education and communication support",
+      "sortOrder": 10
+    },
+    {
+      "id": "partner-2",
+      "name": "Partner",
+      "src": "partner-2.png",
+      "href": "#",
+      "description": "",
+      "sortOrder": 20
+    },
+    {
+      "id": "geneva-healthcare",
+      "name": "Geneva Healthcare",
+      "src": "geneva-healthcare.png",
+      "href": "https://www.genevahealthcare.co.nz",
+      "description": "Community and disability support services",
+      "sortOrder": 30
+    },
+    {
+      "id": "blennz",
+      "name": "BLENNZ",
+      "src": "blennz.png",
+      "href": "https://www.blennz.school.nz",
+      "description": "Blind and Low Vision Education Network NZ",
+      "sortOrder": 40
+    },
+    {
+      "id": "nbr",
+      "name": "NBR",
+      "src": "nbr.png",
+      "href": "#",
+      "description": "",
+      "sortOrder": 50
+    },
+    {
+      "id": "adaptx",
+      "name": "AdaptX",
+      "src": "adaptx.png",
+      "href": "https://www.adaptx.co.nz",
+      "description": "Adaptive sports and recreation",
+      "sortOrder": 60
+    }
+  ]
+}
