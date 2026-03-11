@@ -193,13 +193,13 @@
       "notes": "Venue details to be confirmed"
     },
     {
-      "id": "explore-wellbeing-city-church-",
-      "name": "Explore Wellbeing City Church ",
+      "id": "explore-wellbeing-city-church",
+      "name": "Explore Wellbeing City Church",
       "city": "Auckland",
       "country": "NZ",
-      "address": "133 Central Park Drive, Henderson",
-      "lat": -36.853408,
-      "lng": 174.639027,
+      "address": "6/133 Central Park Drive, Henderson, Auckland 0610",
+      "lat": -36.853395,
+      "lng": 174.63852,
       "programs": [
         "jam"
       ],
