@@ -39,10 +39,10 @@
     },
     {
       "id": "upsidedowns",
-      "name": "upsidedowns",
+      "name": "UpsideDowns Education Trust",
       "src": "upsidedowns.png",
-      "href": "https://www.upsidedowns.co.nz",
-      "description": "Giving a voice to Kiwi kids with Down syndrome",
+      "href": "https://www.upsidedowns.co.nz/",
+      "description": "Speech and language therapy support for Kiwi kids with Down syndrome",
       "sortOrder": 70
     },
     {
@@ -100,6 +100,222 @@
       "href": "https://knoxfit.co.nz/",
       "description": "Functional strength, fitness and community wellbeing",
       "sortOrder": 140
+    },
+    {
+      "id": "09-thrive",
+      "name": "09 Thrive",
+      "src": "09thrive.png",
+      "href": "https://09thrive.co.nz/",
+      "description": "Fitness and coaching studio in Auckland",
+      "sortOrder": 150
+    },
+    {
+      "id": "active-hands",
+      "name": "Active Hands",
+      "src": "active-hands.png",
+      "href": "https://www.activehands.com/",
+      "description": "Adaptive gripping aids for reduced hand function",
+      "sortOrder": 160
+    },
+    {
+      "id": "auckland-council",
+      "name": "Auckland Council",
+      "src": "auckland-council.png",
+      "href": "https://www.aucklandcouncil.govt.nz/",
+      "description": "Local government and community services for Auckland",
+      "sortOrder": 170
+    },
+    {
+      "id": "aut",
+      "name": "AUT",
+      "src": "aut.png",
+      "href": "https://www.aut.ac.nz/",
+      "description": "University education, research and community partnership",
+      "sortOrder": 180
+    },
+    {
+      "id": "christchurch-city-council",
+      "name": "Christchurch City Council",
+      "src": "christchurch-city-council.png",
+      "href": "https://ccc.govt.nz/",
+      "description": "Local government and civic services for Christchurch and Banks Peninsula",
+      "sortOrder": 190
+    },
+    {
+      "id": "ccs-disability-action",
+      "name": "CCS Disability Action",
+      "src": "ccs-disability-action.png",
+      "href": "https://www.ccsdisabilityaction.org.nz/",
+      "description": "Disability support and advocacy across Aotearoa New Zealand",
+      "sortOrder": 200
+    },
+    {
+      "id": "central-auckland-specialist-school",
+      "name": "Central Auckland Specialist School",
+      "src": "central-auckland-specialist-school.png",
+      "href": "https://www.cass.school.nz/",
+      "description": "Specialist education for learners with intellectual and complex needs",
+      "sortOrder": 210
+    },
+    {
+      "id": "halberg-foundation",
+      "name": "Halberg Foundation",
+      "src": "halberg-foundation.png",
+      "href": "https://halberg.co.nz/",
+      "description": "Inclusive sport and recreation for young people with physical disabilities",
+      "sortOrder": 220
+    },
+    {
+      "id": "hapai-access-card",
+      "name": "Hāpai Access Card",
+      "src": "hapai-access-card.png",
+      "href": "https://www.hapaiaccesscard.org.nz/",
+      "description": "Accessibility card service that helps disabled people communicate access needs",
+      "sortOrder": 230
+    },
+    {
+      "id": "hohepa-hawkes-bay",
+      "name": "Hōhepa Hawke's Bay",
+      "src": "hohepa.png",
+      "href": "https://www.hohepahawkesbay.com/",
+      "description": "Community support for people with intellectual disabilities in Hawke's Bay",
+      "sortOrder": 240
+    },
+    {
+      "id": "idea-services",
+      "name": "IDEA Services",
+      "src": "idea-services.png",
+      "href": "https://www.idea.org.nz/",
+      "description": "Support services for adults with intellectual disabilities across New Zealand",
+      "sortOrder": 250
+    },
+    {
+      "id": "lindsay-foundation",
+      "name": "Lindsay Foundation",
+      "src": "lindsay-foundation.png",
+      "href": "https://www.lindsayfoundation.co.nz/",
+      "description": "Foundation supporting people and organisations making a positive difference in New Zealand",
+      "sortOrder": 260
+    },
+    {
+      "id": "nzdsa",
+      "name": "New Zealand Down Syndrome Association",
+      "src": "nzdsa.png",
+      "href": "https://nzdsa.org.nz/",
+      "description": "Support, information and advocacy for people with Down syndrome and their whānau",
+      "sortOrder": 270
+    },
+    {
+      "id": "oaklynn-school",
+      "name": "Oaklynn School",
+      "src": "oaklynn-school.png",
+      "href": "https://www.oaklynn.school.nz/",
+      "description": "Specialist school supporting ORS-funded learners in Auckland",
+      "sortOrder": 280
+    },
+    {
+      "id": "pakuranga-college",
+      "name": "Pakūranga College",
+      "src": "pakuranga-college.png",
+      "href": "https://www.pakuranga.school.nz/",
+      "description": "East Auckland secondary school with broad academic and co-curricular programmes",
+      "sortOrder": 290
+    },
+    {
+      "id": "rosehill-school",
+      "name": "Rosehill School",
+      "src": "rosehill-school.png",
+      "href": "https://www.rosehill.school.nz/",
+      "description": "Specialist school for learners aged 5 to 21 with specific learning needs",
+      "sortOrder": 300
+    },
+    {
+      "id": "special-olympics-nz",
+      "name": "Special Olympics New Zealand",
+      "src": "special-olympics-nz.png",
+      "href": "https://specialolympics.org.nz/",
+      "description": "Year-round sport training and competition for people with intellectual disabilities",
+      "sortOrder": 330
+    },
+    {
+      "id": "spectrum-care",
+      "name": "Spectrum Care",
+      "src": "spectrum-care.png",
+      "href": "https://www.spectrumcare.org.nz/",
+      "description": "Disability support services focused on choice, freedom and independence",
+      "sortOrder": 340
+    },
+    {
+      "id": "wilson-home-trust",
+      "name": "The Wilson Home Trust",
+      "src": "wilson-home-trust.png",
+      "href": "https://wilsonhometrust.org.nz/",
+      "description": "Support, grants and services for children and young adults with physical disabilities",
+      "sortOrder": 350
+    },
+    {
+      "id": "university-of-auckland",
+      "name": "University of Auckland",
+      "src": "university-of-auckland.png",
+      "href": "https://www.auckland.ac.nz/en.html",
+      "description": "University education, research and community partnership",
+      "sortOrder": 360
+    },
+    {
+      "id": "wairau-valley-special-school",
+      "name": "Wairau Valley Special School",
+      "src": "wairau-valley-special-school.png",
+      "href": "https://www.wvss.school.nz/",
+      "description": "Specialist school for students with unique learning needs in Auckland",
+      "sortOrder": 370
+    },
+    {
+      "id": "waitakere-college",
+      "name": "Waitākere College",
+      "src": "waitakere-college.png",
+      "href": "https://www.waitakerecollege.school.nz/",
+      "description": "West Auckland secondary school with academic, cultural and vocational pathways",
+      "sortOrder": 380
+    },
+    {
+      "id": "western-springs-college",
+      "name": "Western Springs College",
+      "src": "western-springs-college.png",
+      "href": "https://westernsprings.school.nz/",
+      "description": "Auckland secondary school with English-medium and Māori-medium pathways",
+      "sortOrder": 390
+    },
+    {
+      "id": "wheel-blacks",
+      "name": "Wheel Blacks",
+      "src": "wheel-blacks.png",
+      "href": "https://www.wheelblacks.com/",
+      "description": "New Zealand wheelchair rugby national team and community pathway",
+      "sortOrder": 400
+    },
+    {
+      "id": "wheelwod",
+      "name": "WheelWOD",
+      "src": "wheelwod.png",
+      "href": "https://wheelwod.com/",
+      "description": "Adaptive fitness competition and classification platform",
+      "sortOrder": 410
+    },
+    {
+      "id": "wilson-school",
+      "name": "Wilson School",
+      "src": "wilson-school.png",
+      "href": "https://www.wilson.school.nz/",
+      "description": "Specialist school based on Auckland's North Shore",
+      "sortOrder": 420
+    },
+    {
+      "id": "x-tremity",
+      "name": "X-Tremity Prosthetics & Orthotics",
+      "src": "x-tremity.png",
+      "href": "https://www.x-tremity.com/",
+      "description": "Prosthetics and orthotics services, including Auckland and Hamilton",
+      "sortOrder": 430
     }
   ]
 }
