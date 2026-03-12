@@ -52,6 +52,14 @@
       "href": "https://cerebralpalsy.org.nz/",
       "description": "Enhancing the lives of people with Cerebral Palsy - Hōkai Nukurangi in New Zealand",
       "sortOrder": 80
+    },
+    {
+      "id": "starship",
+      "name": "Starship",
+      "src": "starship.png",
+      "href": "https://www.starship.org.nz/patients-and-families/",
+      "description": "We are delivering family centred care to infants, children, young people and their whānau in hospital and in the community.",
+      "sortOrder": 90
     }
   ]
 }
