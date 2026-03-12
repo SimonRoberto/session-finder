@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-11",
+  "updated": "2026-03-12",
   "locations": [
     {
       "id": "auckland-09thrive",
@@ -97,11 +97,13 @@
       "lat": -43.5341,
       "lng": 172.6343,
       "programs": [
-        "fam-program"
+        "fam-program",
+        "program"
       ],
       "coaches": [
         "shaney-olivier",
-        "ollie-smith"
+        "ollie-smith",
+        "skye-churchill"
       ],
       "photo": "",
       "notes": ""
