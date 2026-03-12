@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07",
+  "updated": "2026-03-12",
   "config": {
     "repoBaseUrl": "https://simonroberto.github.io/session-finder",
     "photosPath": "/photos"
@@ -53,7 +53,8 @@
         "kieran-cordelle",
         "shaney-olivier",
         "mike-hardgrave",
-        "jacqueline-hay"
+        "jacqueline-hay",
+        "skye-churchill"
       ]
     },
     {
@@ -370,6 +371,16 @@
       "programOrder": {
         "fam-program": 2
       }
+    },
+    {
+      "name": "Skye Churchill",
+      "role": "FAM™ Coach",
+      "email": "skye@functionaladaptivemovement.com",
+      "photo": "skye-churchill.jpg",
+      "bio": "My name is Skye and I am a qualified exercise physiologist currently living in Christchurch. I grew up in Australia and completed my studies in Sydney before coming across the ditch in 2025. I am a retired rugby player and now fill my time running recreational programmes for people with disabilities, trail and road running, travelling and spending time with my friends. \nI have worked with people with disabilities for over 6 years now in a range of different ways but I think my favourite kind is through exercise and movement. I love seeing people become more confident in their abilities and become valued members of a community.  \nMy goal is to facilitate fun and learning and I hope to foster an environment that everyone feels comfortable and supported in. ",
+      "location": "Christchurch",
+      "sortOrder": 23,
+      "id": "skye-churchill"
     }
   ]
 }
