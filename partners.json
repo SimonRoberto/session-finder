@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-11",
+  "updated": "2026-03-12",
   "config": {
     "repoBaseUrl": "https://simonroberto.github.io/session-finder",
     "logosPath": "/partner_logos"
@@ -44,6 +44,14 @@
       "href": "https://www.upsidedowns.co.nz",
       "description": "Giving a Voice to Kiwi Kids with Down syndrome",
       "sortOrder": 70
+    },
+    {
+      "id": "cerebralpalsy",
+      "name": "Cerebral Palsy Society",
+      "src": "cerebralpalsy,png.png",
+      "href": "https://cerebralpalsy.org.nz/",
+      "description": "Enhancing the lives of people with Cerebral Palsy - Hōkai Nukurangi in New Zealand",
+      "sortOrder": 80
     }
   ]
 }
