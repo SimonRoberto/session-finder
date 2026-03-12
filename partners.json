@@ -33,8 +33,8 @@
       "id": "adaptx",
       "name": "AdaptX",
       "src": "adaptx.png",
-      "href": "https://www.adaptx.co.nz",
-      "description": "Adaptive sports and recreation",
+      "href": "https://www.adaptx.org/",
+      "description": "Inclusive and adaptive fitness education",
       "sortOrder": 60
     },
     {
@@ -42,7 +42,7 @@
       "name": "upsidedowns",
       "src": "upsidedowns.png",
       "href": "https://www.upsidedowns.co.nz",
-      "description": "Giving a Voice to Kiwi Kids with Down syndrome",
+      "description": "Giving a voice to Kiwi kids with Down syndrome",
       "sortOrder": 70
     },
     {
@@ -50,7 +50,7 @@
       "name": "Cerebral Palsy Society",
       "src": "cerebralpalsy.png",
       "href": "https://cerebralpalsy.org.nz/",
-      "description": "Enhancing the lives of people with Cerebral Palsy - Hōkai Nukurangi in New Zealand",
+      "description": "Support and advocacy for people with cerebral palsy in New Zealand",
       "sortOrder": 80
     },
     {
@@ -58,8 +58,48 @@
       "name": "Starship",
       "src": "starship.png",
       "href": "https://www.starship.org.nz/patients-and-families/",
-      "description": "We are delivering family centred care to infants, children, young people and their whānau in hospital and in the community.",
+      "description": "Family-centred paediatric care and support",
       "sortOrder": 90
+    },
+    {
+      "id": "sommerville-school",
+      "name": "Sommerville School",
+      "src": "sommerville-school.png",
+      "href": "https://www.sommerville.school.nz/",
+      "description": "Special education and therapy support for learners in Auckland",
+      "sortOrder": 100
+    },
+    {
+      "id": "explore-wellbeing",
+      "name": "Explore Wellbeing",
+      "src": "explore-wellbeing.png",
+      "href": "https://explorewellbeing.org.nz/",
+      "description": "Specialist disability and mental health services",
+      "sortOrder": 110
+    },
+    {
+      "id": "cityfitness",
+      "name": "CityFitness",
+      "src": "cityfitness.png",
+      "href": "https://www.cityfitness.co.nz/",
+      "description": "Accessible gym and fitness services across New Zealand",
+      "sortOrder": 120
+    },
+    {
+      "id": "the-y-auckland",
+      "name": "The Y Auckland",
+      "src": "the-y-auckland.png",
+      "href": "https://www.ymcanorth.org.nz/",
+      "description": "Community fitness, recreation and youth development",
+      "sortOrder": 130
+    },
+    {
+      "id": "knoxfit",
+      "name": "KnoxFit",
+      "src": "knoxfit.png",
+      "href": "https://knoxfit.co.nz/",
+      "description": "Functional strength, fitness and community wellbeing",
+      "sortOrder": 140
     }
   ]
 }
