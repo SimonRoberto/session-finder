@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12",
+  "updated": "2026-03-16",
   "config": {
     "repoBaseUrl": "https://simonroberto.github.io/session-finder",
     "photosPath": "/photos"
@@ -297,7 +297,7 @@
       "name": "Kieran Cordelle",
       "role": "FAM™ Coach",
       "email": "kieran@functionaladaptivemovement.com",
-      "photo": "kieran-cordelle.png",
+      "photo": "kieran-cordelle.jpg",
       "bio": "Hi, I'm Kieran Cordelle, an adaptive strength and conditioning coach passionate about helping people move with confidence, capability, and purpose. I hold a Bachelor's degree in Sport and Exercise Science from AUT, where I discovered my passion for adaptive training. I bring a strong foundation in sport science, athlete development, and inclusive coaching to my work at Functional Adaptive Movement. I have hands-on experience delivering strength, conditioning, and skill-development programmes for athletes across a range of sports and abilities. At FAM™, my focus is on creating training environments where individuals feel supported, challenged, and empowered, while still having fun. I take a person-centred approach, ensuring goals, communication, and programming are tailored to each athlete. Outside of FAM, I'm passionate about football, surfing, and mountain biking. I'm motivated by seeing people achieve things they didn't think were possible and contributing to a more inclusive, accessible, and empowering sporting community.",
       "location": "Auckland",
       "sortOrder": 17,
@@ -380,7 +380,10 @@
       "bio": "My name is Skye and I am a qualified exercise physiologist currently living in Christchurch. I grew up in Australia and completed my studies in Sydney before coming across the ditch in 2025. I am a retired rugby player and now fill my time running recreational programmes for people with disabilities, trail and road running, travelling and spending time with my friends. \nI have worked with people with disabilities for over 6 years now in a range of different ways but I think my favourite kind is through exercise and movement. I love seeing people become more confident in their abilities and become valued members of a community.  \nMy goal is to facilitate fun and learning and I hope to foster an environment that everyone feels comfortable and supported in. ",
       "location": "Christchurch",
       "sortOrder": 23,
-      "id": "skye-churchill"
+      "id": "skye-churchill",
+      "programOrder": {
+        "fam-program": 19
+      }
     }
   ]
 }
