@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12",
+  "updated": "2026-03-17",
   "config": {
     "repoBaseUrl": "https://simonroberto.github.io/session-finder",
     "logosPath": "/partner_logos"
@@ -317,7 +317,7 @@
       "description": "Prosthetics and orthotics services, including Auckland and Hamilton",
       "sortOrder": 430
     },
-        {
+    {
       "id": "multiple-sclerosis-auckland",
       "name": "MS Auckland",
       "src": "multiple-sceloris-auckland.png",
@@ -328,7 +328,7 @@
     {
       "id": "nrg-dunedin-south",
       "name": "NRG Health & Fitness Dunedin South",
-      "src": "NRG-Dunedon.png",
+      "src": "NRG-Dunedin.png",
       "href": "https://www.nrggym.co.nz/dunedin-south/",
       "description": "Community gym in South Dunedin with 24/7 access, classes and trainer support",
       "sortOrder": 450
