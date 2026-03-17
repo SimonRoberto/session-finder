@@ -316,6 +316,22 @@
       "href": "https://www.x-tremity.com/",
       "description": "Prosthetics and orthotics services, including Auckland and Hamilton",
       "sortOrder": 430
+    },
+        {
+      "id": "multiple-sclerosis-auckland",
+      "name": "MS Auckland",
+      "src": "multiple-sceloris-auckland.png",
+      "href": "https://msakl.org.nz/",
+      "description": "Support, education and advocacy for people in Auckland affected by multiple sclerosis",
+      "sortOrder": 440
+    },
+    {
+      "id": "nrg-dunedin-south",
+      "name": "NRG Health & Fitness Dunedin South",
+      "src": "NRG-Dunedon.png",
+      "href": "https://www.nrggym.co.nz/dunedin-south/",
+      "description": "Community gym in South Dunedin with 24/7 access, classes and trainer support",
+      "sortOrder": 450
     }
   ]
 }
