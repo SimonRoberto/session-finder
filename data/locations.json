@@ -233,6 +233,20 @@
       "photo": "",
       "notes": "",
       "sortOrder": 13
+    },
+    {
+      "id": "knoxfit",
+      "name": "KnoxFit",
+      "city": "Auckland",
+      "country": "NZ",
+      "address": "16a Webber Street AUCKLAND 1022 ",
+      "lat": -36.853821,
+      "lng": 174.728691,
+      "programs": [],
+      "coaches": [],
+      "photo": "",
+      "notes": "",
+      "sortOrder": 14
     }
   ]
 }
