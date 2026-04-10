@@ -9,7 +9,9 @@
       "address": "2/49 Sainsbury Road, Mount Albert, Auckland",
       "lat": -36.8858,
       "lng": 174.716,
-      "programs": [],
+      "programs": [
+        "jam"
+      ],
       "coaches": [
         "awat-kakai",
         "havana-beal",
@@ -73,7 +75,9 @@
       "address": "149 Greys Avenue, Auckland Central, Auckland",
       "lat": -36.8545,
       "lng": 174.763,
-      "programs": [],
+      "programs": [
+        "tui"
+      ],
       "coaches": [
         "awat-kakai",
         "havana-beal",
@@ -86,7 +90,7 @@
         "yuan-pu"
       ],
       "photo": "",
-      "notes": "Coach assignments pending — Michael to confirm"
+      "notes": ""
     },
     {
       "id": "auckland-uoa",
