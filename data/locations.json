@@ -243,7 +243,14 @@
       "lat": -36.853821,
       "lng": 174.728691,
       "programs": [],
-      "coaches": [],
+      "coaches": [
+        "renee-thornley",
+        "kate-maloney",
+        "awat-kakai",
+        "nadja-kumerich",
+        "havana-beal",
+        "mike-hardgrave"
+      ],
       "photo": "",
       "notes": "",
       "sortOrder": 14
