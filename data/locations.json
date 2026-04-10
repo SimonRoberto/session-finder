@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09",
+  "updated": "2026-04-10",
   "locations": [
     {
       "id": "auckland-09thrive",
@@ -10,7 +10,15 @@
       "lat": -36.8858,
       "lng": 174.716,
       "programs": [],
-      "coaches": [],
+      "coaches": [
+        "awat-kakai",
+        "havana-beal",
+        "kate-maloney",
+        "kieran-cordelle",
+        "mike-hardgrave",
+        "renee-thornley",
+        "nadja-kumerich"
+      ],
       "photo": "",
       "notes": ""
     },
