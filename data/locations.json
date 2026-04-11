@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10",
+  "updated": "2026-04-11",
   "locations": [
     {
       "id": "auckland-09thrive",
@@ -10,7 +10,7 @@
       "lat": -36.8858,
       "lng": 174.716,
       "programs": [
-        "jam"
+        "program"
       ],
       "coaches": [
         "awat-kakai",
@@ -34,7 +34,9 @@
       "address": "46a Porana Rd, Wairua Valley, Auckland",
       "lat": -36.7782,
       "lng": 174.7385,
-      "programs": [],
+      "programs": [
+        "program"
+      ],
       "coaches": [
         "nadja-kumerich",
         "kieran-cordelle",
@@ -53,7 +55,7 @@
       "lng": 174.737,
       "programs": [],
       "coaches": [
-         "michael-hynard"
+        "michael-hynard"
       ],
       "photo": "",
       "notes": ""
@@ -67,7 +69,8 @@
       "lat": -36.79,
       "lng": 174.75,
       "programs": [
-        "fam-program"
+        "fam-program",
+        "program"
       ],
       "coaches": [
         "kieran-cordelle",
@@ -88,7 +91,9 @@
       "lat": -36.8545,
       "lng": 174.763,
       "programs": [
-        "fam-program"
+        "fam-program",
+        "program",
+        "jam"
       ],
       "coaches": [
         "awat-kakai",
@@ -114,7 +119,8 @@
       "lat": -36.8641,
       "lng": 174.77,
       "programs": [
-        "fam-tui"
+        "fam-tui",
+        "tui"
       ],
       "coaches": [
         "merryn-robertson",
@@ -152,7 +158,8 @@
       "lat": -37.6878,
       "lng": 176.1651,
       "programs": [
-        "fam-program"
+        "fam-program",
+        "program"
       ],
       "coaches": [
         "diogo-freire",
@@ -170,7 +177,8 @@
       "lat": -45.8788,
       "lng": 170.5028,
       "programs": [
-        "fam-program"
+        "fam-program",
+        "program"
       ],
       "coaches": [
         "henry-king"
@@ -187,7 +195,8 @@
       "lat": -35.7256,
       "lng": 174.324,
       "programs": [
-        "fam-program"
+        "fam-program",
+        "program"
       ],
       "coaches": [
         "renee-thornley"
@@ -204,13 +213,14 @@
       "lat": -35.2235,
       "lng": 173.955,
       "programs": [
-        "fam-jam"
+        "fam-jam",
+        "jam"
       ],
       "coaches": [
         "zoe-taylor"
       ],
       "photo": "",
-      "notes": "FAM™JAM only"
+      "notes": ""
     },
     {
       "id": "bristol-tbc-01",
@@ -221,7 +231,8 @@
       "lat": 51.4545,
       "lng": -2.5879,
       "programs": [
-        "fam-program"
+        "fam-program",
+        "program"
       ],
       "coaches": [
         "becca-percy"
@@ -257,7 +268,9 @@
       "address": "16a Webber Street AUCKLAND 1022 ",
       "lat": -36.853821,
       "lng": 174.728691,
-      "programs": [],
+      "programs": [
+        "program"
+      ],
       "coaches": [
         "awat-kakai",
         "havana-beal",
@@ -281,14 +294,16 @@
       "lat": -36.715,
       "lng": 174.747,
       "programs": [
-        "fam-program"
+        "fam-program",
+        "program"
       ],
       "coaches": [
         "kieran-cordelle",
         "shaney-olivier"
       ],
       "photo": "",
-      "notes": ""   },
+      "notes": ""
+    },
     {
       "id": "auckland-westwave-placeholder",
       "name": "WestWave",
@@ -298,7 +313,8 @@
       "lat": -36.8795,
       "lng": 174.6272,
       "programs": [
-        "fam-program"
+        "fam-program",
+        "program"
       ],
       "coaches": [
         "mike-hardgrave"
@@ -327,4 +343,4 @@
       "sortOrder": 15
     }
   ]
-} 
+}
