@@ -20,6 +20,7 @@
         "mike-hardgrave",
         "renee-thornley",
         "nadja-kumerich",
+        "shaney-olivier",
         "michael-hynard"
       ],
       "photo": "",
@@ -34,9 +35,13 @@
       "lat": -36.7782,
       "lng": 174.7385,
       "programs": [],
-      "coaches": [],
+      "coaches": [
+        "nadja-kumerich",
+        "kieran-cordelle",
+        "michael-hynard"
+      ],
       "photo": "",
-      "notes": "Coach assignments pending — Michael to confirm"
+      "notes": ""
     },
     {
       "id": "auckland-hoop33",
@@ -47,9 +52,11 @@
       "lat": -36.775,
       "lng": 174.737,
       "programs": [],
-      "coaches": [],
+      "coaches": [
+         "michael-hynard"
+      ],
       "photo": "",
-      "notes": "Coach assignments pending — Michael to confirm"
+      "notes": ""
     },
     {
       "id": "auckland-aut-northshore",
@@ -63,7 +70,11 @@
         "fam-program"
       ],
       "coaches": [
-        "kieran-cordelle"
+        "kieran-cordelle",
+        "nadja-kumerich",
+        "havana-beal",
+        "shaney-olivier",
+        "michael-hynard"
       ],
       "photo": "",
       "notes": ""
@@ -77,7 +88,7 @@
       "lat": -36.8545,
       "lng": 174.763,
       "programs": [
-        "tui"
+        "fam-program"
       ],
       "coaches": [
         "awat-kakai",
@@ -125,7 +136,7 @@
         "program"
       ],
       "coaches": [
-        "shaney-olivier",
+        "connor-dann",
         "ollie-smith",
         "skye-churchill"
       ],
@@ -148,7 +159,7 @@
         "jacqueline-hay"
       ],
       "photo": "",
-      "notes": "Placeholder — venue details to be confirmed"
+      "notes": ""
     },
     {
       "id": "dunedin-placeholder",
@@ -162,10 +173,10 @@
         "fam-program"
       ],
       "coaches": [
-        "connor-dann"
+        "henry-king"
       ],
       "photo": "",
-      "notes": "Placeholder — venue details to be confirmed"
+      "notes": ""
     },
     {
       "id": "whangarei-hot",
@@ -230,7 +241,9 @@
         "jam"
       ],
       "coaches": [
-        "grace-dunn"
+        "brianna-king",
+        "grace-dunn",
+        "havana-beal"
       ],
       "photo": "",
       "notes": "",
@@ -246,17 +259,72 @@
       "lng": 174.728691,
       "programs": [],
       "coaches": [
-        "renee-thornley",
-        "kate-maloney",
         "awat-kakai",
-        "nadja-kumerich",
         "havana-beal",
+        "kate-maloney",
+        "kieran-cordelle",
         "mike-hardgrave",
+        "nadja-kumerich",
+        "renee-thornley",
         "michael-hynard"
       ],
       "photo": "",
       "notes": "",
       "sortOrder": 14
+    },
+    {
+      "id": "auckland-browns-bay-placeholder",
+      "name": "Browns Bay Venue",
+      "city": "Auckland",
+      "country": "NZ",
+      "address": "",
+      "lat": -36.715,
+      "lng": 174.747,
+      "programs": [
+        "fam-program"
+      ],
+      "coaches": [
+        "kieran-cordelle",
+        "shaney-olivier"
+      ],
+      "photo": "",
+      "notes": ""   },
+    {
+      "id": "auckland-westwave-placeholder",
+      "name": "WestWave",
+      "city": "Auckland",
+      "country": "NZ",
+      "address": "",
+      "lat": -36.8795,
+      "lng": 174.6272,
+      "programs": [
+        "fam-program"
+      ],
+      "coaches": [
+        "mike-hardgrave"
+      ],
+      "photo": "",
+      "notes": ""
+    },
+    {
+      "id": "explore-wellbeing-city-church",
+      "name": "Explore Wellbeing City Church",
+      "city": "Auckland",
+      "country": "NZ",
+      "address": "6/133 Central Park Drive, Henderson, Auckland 0610",
+      "lat": -36.853395,
+      "lng": 174.63852,
+      "programs": [
+        "jam"
+      ],
+      "coaches": [
+        "brianna-king",
+        "grace-dunn",
+        "havana-beal"
+      ],
+      "photo": "",
+      "notes": "",
+      "sortOrder": 15
     }
   ]
-}
+} 
