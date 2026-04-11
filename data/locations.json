@@ -9,20 +9,8 @@
       "address": "2/49 Sainsbury Road, Mount Albert, Auckland",
       "lat": -36.8858,
       "lng": 174.716,
-      "programs": [
-        "program"
-      ],
-      "coaches": [
-        "awat-kakai",
-        "havana-beal",
-        "kate-maloney",
-        "kieran-cordelle",
-        "mike-hardgrave",
-        "renee-thornley",
-        "nadja-kumerich",
-        "shaney-olivier",
-        "michael-hynard"
-      ],
+      "programs": ["program"],
+      "coaches": ["awat-kakai","havana-beal","kate-maloney","kieran-cordelle","mike-hardgrave","renee-thornley","nadja-kumerich","shaney-olivier","michael-hynard"],
       "photo": "",
       "notes": ""
     },
@@ -34,14 +22,8 @@
       "address": "46a Porana Rd, Wairua Valley, Auckland",
       "lat": -36.7782,
       "lng": 174.7385,
-      "programs": [
-        "program"
-      ],
-      "coaches": [
-        "nadja-kumerich",
-        "kieran-cordelle",
-        "michael-hynard"
-      ],
+      "programs": ["program"],
+      "coaches": ["nadja-kumerich","kieran-cordelle","michael-hynard"],
       "photo": "",
       "notes": ""
     },
@@ -54,9 +36,7 @@
       "lat": -36.775,
       "lng": 174.737,
       "programs": [],
-      "coaches": [
-        "michael-hynard"
-      ],
+      "coaches": ["michael-hynard"],
       "photo": "",
       "notes": ""
     },
@@ -68,17 +48,8 @@
       "address": "AH Building, 90 Akoranga Drive, Northcote, Auckland",
       "lat": -36.79,
       "lng": 174.75,
-      "programs": [
-        "fam-program",
-        "program"
-      ],
-      "coaches": [
-        "kieran-cordelle",
-        "nadja-kumerich",
-        "havana-beal",
-        "shaney-olivier",
-        "michael-hynard"
-      ],
+      "programs": ["program"],
+      "coaches": ["kieran-cordelle","nadja-kumerich","havana-beal","shaney-olivier","michael-hynard"],
       "photo": "",
       "notes": ""
     },
@@ -90,23 +61,8 @@
       "address": "149 Greys Avenue, Auckland Central, Auckland",
       "lat": -36.8545,
       "lng": 174.763,
-      "programs": [
-        "fam-program",
-        "program",
-        "jam"
-      ],
-      "coaches": [
-        "awat-kakai",
-        "havana-beal",
-        "kate-maloney",
-        "kieran-cordelle",
-        "mike-hardgrave",
-        "nadja-kumerich",
-        "renee-thornley",
-        "samantha-glenny",
-        "yuan-pu",
-        "michael-hynard"
-      ],
+      "programs": ["program","jam"],
+      "coaches": ["awat-kakai","havana-beal","kate-maloney","kieran-cordelle","mike-hardgrave","nadja-kumerich","renee-thornley","samantha-glenny","yuan-pu","michael-hynard"],
       "photo": "",
       "notes": ""
     },
@@ -118,14 +74,8 @@
       "address": "Building 907, Department of Exercise Sciences, Suiter Street, Newmarket, Auckland",
       "lat": -36.8641,
       "lng": 174.77,
-      "programs": [
-        "fam-tui",
-        "tui"
-      ],
-      "coaches": [
-        "merryn-robertson",
-        "michael-hynard"
-      ],
+      "programs": ["tui"],
+      "coaches": ["merryn-robertson","michael-hynard"],
       "photo": "",
       "notes": "FAM™TŪI only"
     },
@@ -137,15 +87,8 @@
       "address": "205a Wordsworth Street, Christchurch Central City, Christchurch 8023",
       "lat": -43.5341,
       "lng": 172.6343,
-      "programs": [
-        "fam-program",
-        "program"
-      ],
-      "coaches": [
-        "connor-dann",
-        "ollie-smith",
-        "skye-churchill"
-      ],
+      "programs": ["program"],
+      "coaches": ["connor-dann","ollie-smith","skye-churchill"],
       "photo": "",
       "notes": ""
     },
@@ -157,14 +100,8 @@
       "address": "",
       "lat": -37.6878,
       "lng": 176.1651,
-      "programs": [
-        "fam-program",
-        "program"
-      ],
-      "coaches": [
-        "diogo-freire",
-        "jacqueline-hay"
-      ],
+      "programs": ["program"],
+      "coaches": ["diogo-freire","jacqueline-hay"],
       "photo": "",
       "notes": ""
     },
@@ -176,13 +113,8 @@
       "address": "",
       "lat": -45.8788,
       "lng": 170.5028,
-      "programs": [
-        "fam-program",
-        "program"
-      ],
-      "coaches": [
-        "henry-king"
-      ],
+      "programs": ["program"],
+      "coaches": ["henry-king"],
       "photo": "",
       "notes": ""
     },
@@ -194,13 +126,8 @@
       "address": "17 Finlayson Street, Whangārei",
       "lat": -35.7256,
       "lng": 174.324,
-      "programs": [
-        "fam-program",
-        "program"
-      ],
-      "coaches": [
-        "renee-thornley"
-      ],
+      "programs": ["program"],
+      "coaches": ["renee-thornley"],
       "photo": "",
       "notes": ""
     },
@@ -212,13 +139,8 @@
       "address": "22 Sammaree Place, Kerikeri",
       "lat": -35.2235,
       "lng": 173.955,
-      "programs": [
-        "fam-jam",
-        "jam"
-      ],
-      "coaches": [
-        "zoe-taylor"
-      ],
+      "programs": ["jam"],
+      "coaches": ["zoe-taylor"],
       "photo": "",
       "notes": ""
     },
@@ -230,13 +152,8 @@
       "address": "",
       "lat": 51.4545,
       "lng": -2.5879,
-      "programs": [
-        "fam-program",
-        "program"
-      ],
-      "coaches": [
-        "becca-percy"
-      ],
+      "programs": ["program"],
+      "coaches": ["becca-percy"],
       "photo": "",
       "notes": "Venue details to be confirmed"
     },
@@ -248,14 +165,8 @@
       "address": "6/133 Central Park Drive, Henderson, Auckland 0610",
       "lat": -36.853395,
       "lng": 174.63852,
-      "programs": [
-        "jam"
-      ],
-      "coaches": [
-        "brianna-king",
-        "grace-dunn",
-        "havana-beal"
-      ],
+      "programs": ["jam"],
+      "coaches": ["brianna-king","grace-dunn","havana-beal"],
       "photo": "",
       "notes": "",
       "sortOrder": 13
@@ -265,22 +176,11 @@
       "name": "KnoxFit",
       "city": "Auckland",
       "country": "NZ",
-      "address": "16a Webber Street AUCKLAND 1022 ",
+      "address": "16a Webber Street AUCKLAND 1022",
       "lat": -36.853821,
       "lng": 174.728691,
-      "programs": [
-        "program"
-      ],
-      "coaches": [
-        "awat-kakai",
-        "havana-beal",
-        "kate-maloney",
-        "kieran-cordelle",
-        "mike-hardgrave",
-        "nadja-kumerich",
-        "renee-thornley",
-        "michael-hynard"
-      ],
+      "programs": ["program"],
+      "coaches": ["awat-kakai","havana-beal","kate-maloney","kieran-cordelle","mike-hardgrave","nadja-kumerich","renee-thornley","michael-hynard"],
       "photo": "",
       "notes": "",
       "sortOrder": 14
@@ -293,14 +193,8 @@
       "address": "",
       "lat": -36.715,
       "lng": 174.747,
-      "programs": [
-        "fam-program",
-        "program"
-      ],
-      "coaches": [
-        "kieran-cordelle",
-        "shaney-olivier"
-      ],
+      "programs": ["program"],
+      "coaches": ["kieran-cordelle","shaney-olivier"],
       "photo": "",
       "notes": ""
     },
@@ -312,35 +206,10 @@
       "address": "",
       "lat": -36.8795,
       "lng": 174.6272,
-      "programs": [
-        "fam-program",
-        "program"
-      ],
-      "coaches": [
-        "mike-hardgrave"
-      ],
+      "programs": ["program"],
+      "coaches": ["mike-hardgrave"],
       "photo": "",
       "notes": ""
-    },
-    {
-      "id": "explore-wellbeing-city-church",
-      "name": "Explore Wellbeing City Church",
-      "city": "Auckland",
-      "country": "NZ",
-      "address": "6/133 Central Park Drive, Henderson, Auckland 0610",
-      "lat": -36.853395,
-      "lng": 174.63852,
-      "programs": [
-        "jam"
-      ],
-      "coaches": [
-        "brianna-king",
-        "grace-dunn",
-        "havana-beal"
-      ],
-      "photo": "",
-      "notes": "",
-      "sortOrder": 15
     }
   ]
 }
