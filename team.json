@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25",
+  "updated": "2026-04-17",
   "config": {
     "repoBaseUrl": "https://simonroberto.github.io/session-finder",
     "photosPath": "/photos"
@@ -110,7 +110,8 @@
       "id": "merryn-robertson",
       "programOrder": {
         "fam-tui": 1
-      }
+      },
+      "bioUrl": "https://www.hopeinmotionpaedstherapy.com"
     },
     {
       "name": "Renee Thornley",
@@ -394,7 +395,10 @@
       "bio": "Kia Ora, I have worked in the gym industry since I was 18 and absolutely love having the ability to help people live better healthier lives. I am currently a manager, personal trainer and group fitness instructor at NRG Dunedin South gym. I have a NZIHF level 4 and 5 qualification in personal training, EAM Parkinson’s disease coach qualification, HYROX coach qualification and facility management qualification. I currently run fit for function at NRG which is a fall prevention class and have recently started a class for people with Parkinson’s disease. Both these classes have grown and created a special community where everyone cherishes the time we spend together. I am excited to be the first gym to bring FAM™ to Dunedin, and to watch it grow and build a strong community of like minded individuals ! \nWhen I am not in the gym you can find me chilling out at the beach, walking my dogs, doing my own training and enjoying time with family and friends.",
       "location": "Otago",
       "sortOrder": 24,
-      "id": "henry-king"
+      "id": "henry-king",
+      "programOrder": {
+        "fam-program": 20
+      }
     }
   ]
 }
