@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11",
+  "updated": "2026-04-22",
   "locations": [
     {
       "id": "auckland-09thrive",
@@ -214,11 +214,11 @@
       "notes": ""
     },
     {
-      "id": "bristol-tbc-01",
-      "name": "Bristol Venue",
+      "id": "crossfit-henleaze",
+      "name": "CrossFit Henleaze",
       "city": "Bristol",
       "country": "UK",
-      "address": "",
+      "address": "73 Henleaze Road, Bristol, United Kingdom BS9 4JS",
       "lat": 51.4545,
       "lng": -2.5879,
       "programs": [
