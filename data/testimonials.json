@@ -1,0 +1,89 @@
+{
+  "config": {
+    "version": "1.0",
+    "description": "FAM testimonials — edit this file to add or update testimonials"
+  },
+  "testimonials": [
+    {
+      "id": 1,
+      "quote": "Michael only ever saw my potential. The FAM™ coaches are genuinely there for the enjoyment of helping people achieve more than anybody imagined. In the gym, I feel safe to be who I am and work on the person I want to become.",
+      "name": "Maqymseahe Ninces",
+      "meta": "Client since 2017",
+      "tags": [{ "label": "Athletes", "style": "teal" }],
+      "featured": true,
+      "order": 1
+    },
+    {
+      "id": 2,
+      "quote": "Michael is always incredibly enthusiastic and has involved all students including those with physical, emotional, intellectual and behaviour challenges. Every single student becomes fitter, stronger, and more flexible than our school can provide.",
+      "name": "Teacher",
+      "meta": "Central Auckland Specialist School",
+      "tags": [{ "label": "Athletes", "style": "teal" }, { "label": "Schools", "style": "muted" }],
+      "featured": true,
+      "order": 2
+    },
+    {
+      "id": 3,
+      "quote": "Michael has an enthusiastic personality and a can-do attitude that has engaged our students. He has made a huge difference to their physical, mental and social skills. They love coming to class and love to show off their new muscles.",
+      "name": "Head of Department",
+      "meta": "Pakuranga College, Auckland",
+      "tags": [{ "label": "Schools", "style": "muted" }],
+      "featured": true,
+      "order": 3
+    },
+    {
+      "id": 4,
+      "quote": "Our students look forward to their workout every week — not only for the incredible programme but for Michael's positive and fun energy. His understanding, patience and humour lifts their physical and emotional wellbeing. Our students have thrived.",
+      "name": "Teacher",
+      "meta": "Wairau Valley Special School, November 2023",
+      "tags": [{ "label": "Schools", "style": "muted" }],
+      "featured": false,
+      "order": 4
+    },
+    {
+      "id": 5,
+      "quote": "The students in our WSCW groups love coming to FAM. A number have made huge progress in their independence and physical development. I really appreciate that activities can be tailored to our students' physical and cognitive abilities.",
+      "name": "Teacher",
+      "meta": "Wairau Valley Special School, November 2023",
+      "tags": [{ "label": "Schools", "style": "muted" }],
+      "featured": false,
+      "order": 5
+    },
+    {
+      "id": 6,
+      "quote": "Pegasus students continue to thrive in their crossfit coaching. Chloe is very professional, inclusive and supportive of students across all ability levels. We sincerely hope to be part of the programme next year.",
+      "name": "Teacher",
+      "meta": "Pakuranga College, November 2023",
+      "tags": [{ "label": "Schools", "style": "muted" }],
+      "featured": false,
+      "order": 6
+    },
+    {
+      "id": 7,
+      "quote": "Our ākonga look forward to attending FAM™ classes every week. Their fine and large motor skills have strengthened and they are willing to have a go at all new activities. They have made new friends from other schools who attend with them.",
+      "name": "Teacher",
+      "meta": "November 2023",
+      "tags": [{ "label": "Schools", "style": "muted" }],
+      "featured": false,
+      "order": 7
+    },
+    {
+      "id": 8,
+      "quote": "FAM has been amazing for our students. It has helped their strength, core movements, hand-eye coordination and fitness — and improved their confidence at a sports facility. I would recommend this programme to all schools in our sector.",
+      "name": "Teacher",
+      "meta": "Wilson School, November 2023",
+      "tags": [{ "label": "Schools", "style": "muted" }],
+      "featured": false,
+      "order": 8
+    },
+    {
+      "id": 9,
+      "quote": "Our students have made huge progress with their fitness this year. The programme is all-inclusive for all abilities. Having fun with friends and getting fit has been incredible — participation in a community activity at its best.",
+      "name": "Teacher",
+      "meta": "Oaklynn Special School, November 2023",
+      "tags": [{ "label": "Schools", "style": "muted" }],
+      "featured": false,
+      "order": 9
+    }
+  ]
+}
