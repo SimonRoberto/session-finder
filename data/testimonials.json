@@ -37,7 +37,7 @@
     {
       "id": 4,
       "type": "image",
-      "src": "https://simonroberto.github.io/session-finder/testimonial_images/fam-session-10.jpg",
+      "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-10.jpg",
       "alt": "Large FAM group session with coach leading athletes",
       "tags": [{ "label": "Athletes", "style": "teal" }, { "label": "Schools", "style": "muted" }],
       "featured": false,
@@ -56,7 +56,7 @@
     {
       "id": 6,
       "type": "image",
-      "src": "https://simonroberto.github.io/session-finder/testimonial_images/fam-session-04.jpeg",
+      "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-04.jpeg",
       "alt": "FAM athletes lifting dumbbells and kettlebells overhead",
       "tags": [{ "label": "Athletes", "style": "teal" }],
       "featured": false,
@@ -75,7 +75,7 @@
     {
       "id": 8,
       "type": "image",
-      "src": "https://simonroberto.github.io/session-finder/testimonial_images/fam-session-06.jpeg",
+      "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-06.jpeg",
       "alt": "FAM athletes and coaches celebrating together",
       "tags": [{ "label": "Athletes", "style": "teal" }],
       "featured": false,
@@ -94,7 +94,7 @@
     {
       "id": 10,
       "type": "image",
-      "src": "https://simonroberto.github.io/session-finder/testimonial_images/fam-session-08.jpeg",
+      "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-08.jpeg",
       "alt": "Wheelchair athletes training with resistance bands",
       "tags": [{ "label": "Athletes", "style": "teal" }],
       "featured": false,
@@ -113,7 +113,7 @@
     {
       "id": 12,
       "type": "image",
-      "src": "https://simonroberto.github.io/session-finder/testimonial_images/fam-session-02.jpeg",
+      "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-02.jpeg",
       "alt": "Two FAM athletes giving thumbs up at the gym",
       "tags": [{ "label": "Athletes", "style": "teal" }, { "label": "Schools", "style": "muted" }],
       "featured": false,
@@ -132,7 +132,7 @@
     {
       "id": 14,
       "type": "image",
-      "src": "https://simonroberto.github.io/session-finder/testimonial_images/fam-session-03.jpeg",
+      "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-03.jpeg",
       "alt": "FAM coach in conversation with young athlete",
       "tags": [{ "label": "Athletes", "style": "teal" }],
       "featured": false,
@@ -151,7 +151,7 @@
     {
       "id": 16,
       "type": "image",
-      "src": "https://simonroberto.github.io/session-finder/testimonial_images/fam-session-07.jpeg",
+      "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-07.jpeg",
       "alt": "FAM coach doing pushups with kids cheering",
       "tags": [{ "label": "Athletes", "style": "teal" }],
       "featured": false,
@@ -160,7 +160,7 @@
     {
       "id": 17,
       "type": "image",
-      "src": "https://simonroberto.github.io/session-finder/testimonial_images/fam-session-01.jpeg",
+      "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-01.jpeg",
       "alt": "FAM group photo outdoors with wheelchair athletes and coaches",
       "tags": [{ "label": "Athletes", "style": "teal" }],
       "featured": false,
@@ -178,7 +178,7 @@
     {
       "id": 19,
       "type": "image",
-      "src": "https://simonroberto.github.io/session-finder/testimonial_images/fam-session-09.jpeg",
+      "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-09.jpeg",
       "alt": "FAM Christmas celebration with athletes and coaches",
       "tags": [{ "label": "Athletes", "style": "teal" }],
       "featured": false,
