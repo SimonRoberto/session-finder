@@ -169,7 +169,7 @@
     {
       "id": 18,
       "type": "image",
-      "src": "https://simonroberto.github.io/session-finder/testimonial_images/fam-session-05.jpeg",
+      "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-05.jpeg",
       "alt": "Two FAM athletes fist bumping at the gym",
       "tags": [{ "label": "Athletes", "style": "teal" }],
       "featured": false,
