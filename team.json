@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17",
+  "updated": "2026-06-16",
   "config": {
     "repoBaseUrl": "https://simonroberto.github.io/session-finder",
     "photosPath": "/photos"
@@ -55,7 +55,8 @@
         "mike-hardgrave",
         "jacqueline-hay",
         "skye-churchill",
-        "henry-king"
+        "henry-king",
+        "chloe-beach"
       ]
     },
     {
@@ -393,12 +394,23 @@
       "email": "henry@functionaladaptivemovement.com",
       "photo": "henry-king.png",
       "bio": "Kia Ora, I have worked in the gym industry since I was 18 and absolutely love having the ability to help people live better healthier lives. I am currently a manager, personal trainer and group fitness instructor at NRG Dunedin South gym. I have a NZIHF level 4 and 5 qualification in personal training, EAM Parkinson’s disease coach qualification, HYROX coach qualification and facility management qualification. I currently run fit for function at NRG which is a fall prevention class and have recently started a class for people with Parkinson’s disease. Both these classes have grown and created a special community where everyone cherishes the time we spend together. I am excited to be the first gym to bring FAM™ to Dunedin, and to watch it grow and build a strong community of like minded individuals ! \nWhen I am not in the gym you can find me chilling out at the beach, walking my dogs, doing my own training and enjoying time with family and friends.",
-      "location": "Otago",
+      "location": "Dunedin",
       "sortOrder": 24,
       "id": "henry-king",
       "programOrder": {
         "fam-program": 20
       }
+    },
+    {
+      "name": "Chloe Beach",
+      "role": "FAM™ Coach",
+      "email": "chloe@functionaladaptivemovement.com",
+      "photo": "chloe-beach.JPEG",
+      "bio": "Chloe is an Exercise Physiologist who is passionate about helping people of all ages, abilities, and backgrounds achieve their health, exercise, and training goals. She understands that exercise looks different for everyone and enjoys creating a supportive environment where individuals can build confidence, explore their capabilities, and discover ways to make movement an enjoyable part of their lives.\n\nWith experience across a range of clinical and sporting settings, Chloe has worked with individuals living with chronic health conditions, neurological diagnoses, and spinal cord injuries, helping them improve their strength, function, independence, and quality of life. She believes exercise should be tailored to the individual and enjoys finding creative, practical solutions that suit each person's goals, needs, and lifestyle.\n\nChloe is passionate about creating a welcoming and encouraging atmosphere where people feel comfortable challenging themselves while having fun. She believes the strength developed through exercise extends far beyond the gym, helping people live with greater confidence, resilience, and independence in their everyday lives.\n\nOriginally from South Africa, Chloe has also lived and worked in Auckland before recently moving to Dunedin with her partner and their two dogs to undertake her PhD at the University of Otago. When she's not working or studying, you'll likely find her exploring the South Island, spending time outdoors, or seeking out new adventures with her family and four-legged children.",
+      "bioUrl": "",
+      "location": "Dunedin",
+      "sortOrder": 25,
+      "id": "chloe-beach"
     }
   ]
 }
