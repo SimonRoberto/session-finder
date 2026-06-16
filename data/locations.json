@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22",
+  "updated": "2026-06-16",
   "locations": [
     {
       "id": "auckland-09thrive",
@@ -298,9 +298,9 @@
       "name": "WestWave",
       "city": "Auckland",
       "country": "NZ",
-      "address": "",
-      "lat": -36.8795,
-      "lng": 174.6272,
+      "address": "20 Alderman Drive Henderson 0612",
+      "lat": -36.875976,
+      "lng": 174.634453,
       "programs": [
         "program"
       ],
@@ -309,6 +309,22 @@
       ],
       "photo": "",
       "notes": ""
+    },
+    {
+      "id": "the-labathletic-club",
+      "name": "The LABAthletic Club",
+      "city": "Auckland",
+      "country": "NZ",
+      "address": " 14 St John Street, Tauranga",
+      "lat": -37.695493,
+      "lng": 176.160044,
+      "programs": [
+        "program"
+      ],
+      "coaches": [],
+      "photo": "",
+      "notes": "",
+      "sortOrder": 17
     }
   ]
 }
