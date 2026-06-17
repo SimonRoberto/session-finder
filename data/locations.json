@@ -163,11 +163,11 @@
       "notes": ""
     },
     {
-      "id": "dunedin-placeholder",
-      "name": "Dunedin Venue",
+      "id": "nrg-gym-dunedin-south",
+      "name": "NRG Gym Dunedin South",
       "city": "Dunedin",
       "country": "NZ",
-      "address": "",
+      "address": "250 King Edward St Dunedin 9012",
       "lat": -45.8788,
       "lng": 170.5028,
       "programs": [
