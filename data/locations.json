@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16",
+  "updated": "2026-06-17",
   "locations": [
     {
       "id": "auckland-09thrive",
@@ -145,13 +145,13 @@
       "notes": ""
     },
     {
-      "id": "tauranga-placeholder",
-      "name": "Tauranga Venue",
+      "id": "the-labathletic-club",
+      "name": "The LABAthletic Club",
       "city": "Tauranga",
       "country": "NZ",
-      "address": "",
-      "lat": -37.6878,
-      "lng": 176.1651,
+      "address": " 14 St John Street, Tauranga",
+      "lat": -37.695493,
+      "lng": 176.160044,
       "programs": [
         "program"
       ],
@@ -310,22 +310,6 @@
       ],
       "photo": "",
       "notes": ""
-    },
-    {
-      "id": "the-labathletic-club",
-      "name": "The LABAthletic Club",
-      "city": "Auckland",
-      "country": "NZ",
-      "address": " 14 St John Street, Tauranga",
-      "lat": -37.695493,
-      "lng": 176.160044,
-      "programs": [
-        "program"
-      ],
-      "coaches": [],
-      "photo": "",
-      "notes": "",
-      "sortOrder": 17
     }
   ]
 }
