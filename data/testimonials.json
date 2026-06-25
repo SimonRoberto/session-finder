@@ -1,7 +1,7 @@
 {
   "config": {
-    "version": "2.0",
-    "description": "FAM testimonials — supports type: quote and type: image. Edit to add/update. Images live at https://simonroberto.github.io/session-finder/data/testimonial_images/"
+    "version": "2.1",
+    "description": "FAM testimonials — supports type: quote and type: image. Edit to add/update. Images live at https://simonroberto.github.io/session-finder/data/testimonial_images/. ariaLabel is the accessible name announced for each card by screen readers."
   },
   "testimonials": [
     {
@@ -10,6 +10,7 @@
       "quote": "Michael only ever saw my potential. The FAM™ coaches are genuinely there for the enjoyment of helping people achieve more than anybody imagined. In the gym, I feel safe to be who I am and work on the person I want to become.",
       "name": "Maqymseahe Ninces",
       "meta": "Client since 2017",
+      "ariaLabel": "Testimonial from Maqymseahe Ninces, client since 2017",
       "tags": [{ "label": "Athletes", "style": "teal" }],
       "featured": true,
       "order": 1
@@ -20,6 +21,7 @@
       "quote": "Michael is always incredibly enthusiastic and has involved all students including those with physical, emotional, intellectual and behaviour challenges. Every single student becomes fitter, stronger, and more flexible than our school can provide.",
       "name": "Teacher",
       "meta": "Central Auckland Specialist School",
+      "ariaLabel": "Testimonial from a teacher at Central Auckland Specialist School",
       "tags": [{ "label": "Athletes", "style": "teal" }, { "label": "Schools", "style": "muted" }],
       "featured": true,
       "order": 2
@@ -30,6 +32,7 @@
       "quote": "Michael has an enthusiastic personality and a can-do attitude that has engaged our students. He has made a huge difference to their physical, mental and social skills. They love coming to class and love to show off their new muscles.",
       "name": "Head of Department",
       "meta": "Pakuranga College, Auckland",
+      "ariaLabel": "Testimonial from the Head of Department at Pakuranga College, Auckland",
       "tags": [{ "label": "Schools", "style": "muted" }],
       "featured": true,
       "order": 3
@@ -39,6 +42,7 @@
       "type": "image",
       "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-10.jpg",
       "alt": "Large FAM group session with coach leading athletes",
+      "ariaLabel": "Large FAM group session with coach leading athletes",
       "tags": [{ "label": "Athletes", "style": "teal" }, { "label": "Schools", "style": "muted" }],
       "featured": false,
       "order": 4
@@ -49,6 +53,7 @@
       "quote": "Our students look forward to their workout every week — not only for the incredible programme but for Michael's positive and fun energy. His understanding, patience and humour lifts their physical and emotional wellbeing. Our students have thrived.",
       "name": "Teacher",
       "meta": "Wairau Valley Special School, November 2023",
+      "ariaLabel": "Testimonial from a teacher at Wairau Valley Special School, November 2023",
       "tags": [{ "label": "Schools", "style": "muted" }],
       "featured": false,
       "order": 5
@@ -58,6 +63,7 @@
       "type": "image",
       "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-04.jpeg",
       "alt": "FAM athletes lifting dumbbells and kettlebells overhead",
+      "ariaLabel": "FAM athletes lifting dumbbells and kettlebells overhead",
       "tags": [{ "label": "Athletes", "style": "teal" }],
       "featured": false,
       "order": 6
@@ -68,6 +74,7 @@
       "quote": "The students in our WSCW groups love coming to FAM. A number have made huge progress in their independence and physical development. I really appreciate that activities can be tailored to our students' physical and cognitive abilities.",
       "name": "Teacher",
       "meta": "Wairau Valley Special School, November 2023",
+      "ariaLabel": "Testimonial from a teacher at Wairau Valley Special School, November 2023",
       "tags": [{ "label": "Schools", "style": "muted" }],
       "featured": false,
       "order": 7
@@ -77,6 +84,7 @@
       "type": "image",
       "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-06.jpeg",
       "alt": "FAM athletes and coaches celebrating together",
+      "ariaLabel": "FAM athletes and coaches celebrating together",
       "tags": [{ "label": "Athletes", "style": "teal" }],
       "featured": false,
       "order": 8
@@ -87,6 +95,7 @@
       "quote": "Pegasus students continue to thrive in their crossfit coaching. Chloe is very professional, inclusive and supportive of students across all ability levels. We sincerely hope to be part of the programme next year.",
       "name": "Teacher",
       "meta": "Pakuranga College, November 2023",
+      "ariaLabel": "Testimonial from a teacher at Pakuranga College, November 2023",
       "tags": [{ "label": "Schools", "style": "muted" }],
       "featured": false,
       "order": 9
@@ -96,6 +105,7 @@
       "type": "image",
       "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-08.jpeg",
       "alt": "Wheelchair athletes training with resistance bands",
+      "ariaLabel": "Wheelchair athletes training with resistance bands",
       "tags": [{ "label": "Athletes", "style": "teal" }],
       "featured": false,
       "order": 10
@@ -106,6 +116,7 @@
       "quote": "Our ākonga look forward to attending FAM™ classes every week. Their fine and large motor skills have strengthened and they are willing to have a go at all new activities. They have made new friends from other schools who attend with them.",
       "name": "Teacher",
       "meta": "November 2023",
+      "ariaLabel": "Testimonial from a teacher, November 2023",
       "tags": [{ "label": "Schools", "style": "muted" }],
       "featured": false,
       "order": 11
@@ -115,6 +126,7 @@
       "type": "image",
       "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-02.jpeg",
       "alt": "Two FAM athletes giving thumbs up at the gym",
+      "ariaLabel": "Two FAM athletes giving thumbs up at the gym",
       "tags": [{ "label": "Athletes", "style": "teal" }, { "label": "Schools", "style": "muted" }],
       "featured": false,
       "order": 12
@@ -125,6 +137,7 @@
       "quote": "FAM has been amazing for our students. It has helped their strength, core movements, hand-eye coordination and fitness — and improved their confidence at a sports facility. I would recommend this programme to all schools in our sector.",
       "name": "Teacher",
       "meta": "Wilson School, November 2023",
+      "ariaLabel": "Testimonial from a teacher at Wilson School, November 2023",
       "tags": [{ "label": "Schools", "style": "muted" }],
       "featured": false,
       "order": 13
@@ -134,6 +147,7 @@
       "type": "image",
       "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-03.jpeg",
       "alt": "FAM coach in conversation with young athlete",
+      "ariaLabel": "FAM coach in conversation with young athlete",
       "tags": [{ "label": "Athletes", "style": "teal" }],
       "featured": false,
       "order": 14
@@ -144,6 +158,7 @@
       "quote": "Our students have made huge progress with their fitness this year. The programme is all-inclusive for all abilities. Having fun with friends and getting fit has been incredible — participation in a community activity at its best.",
       "name": "Teacher",
       "meta": "Oaklynn Special School, November 2023",
+      "ariaLabel": "Testimonial from a teacher at Oaklynn Special School, November 2023",
       "tags": [{ "label": "Schools", "style": "muted" }],
       "featured": false,
       "order": 15
@@ -153,6 +168,7 @@
       "type": "image",
       "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-07.jpeg",
       "alt": "FAM coach doing pushups with kids cheering",
+      "ariaLabel": "FAM coach doing pushups with kids cheering",
       "tags": [{ "label": "Athletes", "style": "teal" }],
       "featured": false,
       "order": 16
@@ -162,6 +178,7 @@
       "type": "image",
       "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-01.jpeg",
       "alt": "FAM group photo outdoors with wheelchair athletes and coaches",
+      "ariaLabel": "FAM group photo outdoors with wheelchair athletes and coaches",
       "tags": [{ "label": "Athletes", "style": "teal" }],
       "featured": false,
       "order": 17
@@ -171,6 +188,7 @@
       "type": "image",
       "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-05.jpeg",
       "alt": "Two FAM athletes fist bumping at the gym",
+      "ariaLabel": "Two FAM athletes fist bumping at the gym",
       "tags": [{ "label": "Athletes", "style": "teal" }],
       "featured": false,
       "order": 18
@@ -180,6 +198,7 @@
       "type": "image",
       "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-09.jpeg",
       "alt": "FAM Christmas celebration with athletes and coaches",
+      "ariaLabel": "FAM Christmas celebration with athletes and coaches",
       "tags": [{ "label": "Athletes", "style": "teal" }],
       "featured": false,
       "order": 19
