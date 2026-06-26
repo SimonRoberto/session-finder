@@ -1,0 +1,34 @@
+[
+  {
+    "id": "cls_1775268594561_x7n",
+    "name": "FAM™JAM Akl",
+    "category": "FAM JAM",
+    "status": "active",
+    "duration": 60,
+    "capacity": 12,
+    "description": "FAM™JAM Akl Friday 11am",
+    "coaches": ["grace-dunn"],
+    "venues": ["explore-wellbeing-city-church"],
+    "defaultCoach": "grace-dunn",
+    "slots": [
+      { "id": "slot_1775860608292", "days": ["Fri"], "start": "11:00", "end": "12:00" }
+    ],
+    "webVisible": true
+  },
+  {
+    "id": "cls_1775268594563_yog",
+    "name": "Kerikeri FAM JAM",
+    "category": "FAM JAM",
+    "status": "active",
+    "duration": 60,
+    "capacity": 7,
+    "description": "Wednesday Kerikeri FAM JAM 6.30pm",
+    "coaches": [],
+    "venues": ["kerikeri-venue"],
+    "defaultCoach": null,
+    "slots": [
+      { "id": "slot_1775860608352", "days": ["Wed"], "start": "18:30", "end": "19:30" }
+    ],
+    "webVisible": true
+  }
+]
