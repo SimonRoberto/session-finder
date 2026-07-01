@@ -5,10 +5,10 @@
     {
       "id": "weekly-athletes",
       "icon": "people",
-      "value": 500,
+      "value": 700,
       "suffix": "+",
       "label": "Weekly Athletes",
-      "ariaLabel": "More than 500 weekly athletes",
+      "ariaLabel": "More than 700 weekly athletes",
       "visible": true,
       "order": 1
     },
