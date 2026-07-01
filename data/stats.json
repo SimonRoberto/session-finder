@@ -1,0 +1,46 @@
+{
+  "version": "1.0",
+  "updated": "2026-07-02",
+  "stats": [
+    {
+      "id": "weekly-athletes",
+      "icon": "people",
+      "value": 500,
+      "suffix": "+",
+      "label": "Weekly Athletes",
+      "ariaLabel": "More than 500 weekly athletes",
+      "visible": true,
+      "order": 1
+    },
+    {
+      "id": "weekly-classes",
+      "icon": "heart",
+      "value": 11,
+      "suffix": "+",
+      "label": "Weekly Group Classes",
+      "ariaLabel": "More than 11 weekly group classes",
+      "visible": true,
+      "order": 2
+    },
+    {
+      "id": "years-nz",
+      "icon": "growth",
+      "value": 10,
+      "suffix": "+",
+      "label": "Years in NZ",
+      "ariaLabel": "More than 10 years operating in New Zealand",
+      "visible": true,
+      "order": 3
+    },
+    {
+      "id": "certified-coaches",
+      "icon": "coach",
+      "value": 25,
+      "suffix": "+",
+      "label": "Certified Coaches",
+      "ariaLabel": "More than 25 certified coaches",
+      "visible": true,
+      "order": 4
+    }
+  ]
+}
