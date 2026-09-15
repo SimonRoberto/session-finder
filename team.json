@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16",
+  "updated": "2026-09-15",
   "config": {
     "repoBaseUrl": "https://simonroberto.github.io/session-finder",
     "photosPath": "/photos"
@@ -15,7 +15,8 @@
         "zoe-taylor",
         "brianna-king",
         "havana-beal",
-        "grace-dunn"
+        "grace-dunn",
+        "v-rowbottom"
       ]
     },
     {
@@ -410,7 +411,21 @@
       "bioUrl": "",
       "location": "Dunedin",
       "sortOrder": 25,
-      "id": "chloe-beach"
+      "id": "chloe-beach",
+      "programOrder": {
+        "fam-program": 21
+      }
+    },
+    {
+      "name": "V Rowbottom",
+      "role": "FAM™ Jam Coach",
+      "email": "v@functionaladaptivemovement.com",
+      "photo": "v-rowbottom",
+      "bio": "Kia ora FAMJAM whānau, ko V toku ikoa!\nI am a māmā, occupational therapist and choreographer in Ōtepoti, Dunedin. I have a background in performing arts, both on stage and behind the scenes, growing up in a whānau of musicians but eventually finding my place in the movement and dance community.\nI missed the traditional dance training, learning Irish and Highland, Latin and Ballroom, then hiphop and contemporary at high school. During my studies at university I was heavily involved in the contact improvisation community and in more recent years the social Latin dance scene. I have been choreographing for the Otago Gangshow for over a decade now and have run various music and dance workshops for all ages and abilities including pre-school music and youth with disabilities since high school.\nI’m a life-long learner, exploring different ways to enable access to others, one of these most recent ventures included completing the Merge NZ Sign Language beginners to advanced classes over four years. Throughout my studies in performing arts and occupational therapy, working within the disability space has been my driving passion, to make performing arts accessible and inclusive.\nI can’t wait to bring some music and movement to Ōtepoti!\nMā te wā!",
+      "bioUrl": "",
+      "location": "Dunedin",
+      "sortOrder": 26,
+      "id": "v-rowbottom"
     }
   ]
 }
