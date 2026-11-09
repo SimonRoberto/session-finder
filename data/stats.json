@@ -5,19 +5,19 @@
     {
       "id": "weekly-athletes",
       "icon": "people",
-      "value": 700,
+      "value": 800,
       "suffix": "+",
-      "label": "Weekly Athletes",
-      "ariaLabel": "More than 700 weekly athletes",
+      "label": "Participants",
+      "ariaLabel": "More than 800 athletes",
       "visible": true,
       "order": 1
     },
     {
       "id": "weekly-classes",
       "icon": "heart",
-      "value": 11,
+      "value": 40,
       "suffix": "+",
-      "label": "Weekly Group Classes",
+      "label": "Weekly Sessions",
       "ariaLabel": "More than 11 weekly group classes",
       "visible": true,
       "order": 2
@@ -37,8 +37,8 @@
       "icon": "coach",
       "value": 25,
       "suffix": "+",
-      "label": "Certified Coaches",
-      "ariaLabel": "More than 25 certified coaches",
+      "label": "AdaptX aligned Coaches",
+      "ariaLabel": "More than 25 AdaptX aligned coaches",
       "visible": true,
       "order": 4
     }
