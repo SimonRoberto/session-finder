@@ -1,7 +1,7 @@
 {
   "config": {
-    "version": "2.1",
-    "description": "FAM testimonials — supports type: quote and type: image. Edit to add/update. Images live at https://simonroberto.github.io/session-finder/data/testimonial_images/. ariaLabel is the accessible name announced for each card by screen readers."
+    "version": "2.2",
+    "description": "FAM testimonials — supports type: quote and type: image. Edit to add/update. Images live at https://simonroberto.github.io/session-finder/data/testimonial_images/ (Tūī photos: Zoho Sites Files /FAM-Media/our-story/). ariaLabel is the accessible name announced for each card by screen readers. Tag styles: teal, muted, orange."
   },
   "testimonials": [
     {
@@ -11,7 +11,12 @@
       "name": "Maqymseahe Ninces",
       "meta": "Client since 2017",
       "ariaLabel": "Testimonial from Maqymseahe Ninces, client since 2017",
-      "tags": [{ "label": "Athletes", "style": "teal" }],
+      "tags": [
+        {
+          "label": "Participants",
+          "style": "teal"
+        }
+      ],
       "featured": true,
       "order": 1
     },
@@ -22,7 +27,16 @@
       "name": "Teacher",
       "meta": "Central Auckland Specialist School",
       "ariaLabel": "Testimonial from a teacher at Central Auckland Specialist School",
-      "tags": [{ "label": "Athletes", "style": "teal" }, { "label": "Schools", "style": "muted" }],
+      "tags": [
+        {
+          "label": "Participants",
+          "style": "teal"
+        },
+        {
+          "label": "Schools",
+          "style": "muted"
+        }
+      ],
       "featured": true,
       "order": 2
     },
@@ -33,7 +47,12 @@
       "name": "Head of Department",
       "meta": "Pakuranga College, Auckland",
       "ariaLabel": "Testimonial from the Head of Department at Pakuranga College, Auckland",
-      "tags": [{ "label": "Schools", "style": "muted" }],
+      "tags": [
+        {
+          "label": "Schools",
+          "style": "muted"
+        }
+      ],
       "featured": true,
       "order": 3
     },
@@ -43,7 +62,16 @@
       "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-10.jpg",
       "alt": "Large FAM group session with coach leading athletes",
       "ariaLabel": "Large FAM group session with coach leading athletes",
-      "tags": [{ "label": "Athletes", "style": "teal" }, { "label": "Schools", "style": "muted" }],
+      "tags": [
+        {
+          "label": "Participants",
+          "style": "teal"
+        },
+        {
+          "label": "Schools",
+          "style": "muted"
+        }
+      ],
       "featured": false,
       "order": 4
     },
@@ -54,7 +82,12 @@
       "name": "Teacher",
       "meta": "Wairau Valley Special School, November 2023",
       "ariaLabel": "Testimonial from a teacher at Wairau Valley Special School, November 2023",
-      "tags": [{ "label": "Schools", "style": "muted" }],
+      "tags": [
+        {
+          "label": "Schools",
+          "style": "muted"
+        }
+      ],
       "featured": false,
       "order": 5
     },
@@ -64,7 +97,12 @@
       "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-04.jpeg",
       "alt": "FAM athletes lifting dumbbells and kettlebells overhead",
       "ariaLabel": "FAM athletes lifting dumbbells and kettlebells overhead",
-      "tags": [{ "label": "Athletes", "style": "teal" }],
+      "tags": [
+        {
+          "label": "Participants",
+          "style": "teal"
+        }
+      ],
       "featured": false,
       "order": 6
     },
@@ -75,7 +113,12 @@
       "name": "Teacher",
       "meta": "Wairau Valley Special School, November 2023",
       "ariaLabel": "Testimonial from a teacher at Wairau Valley Special School, November 2023",
-      "tags": [{ "label": "Schools", "style": "muted" }],
+      "tags": [
+        {
+          "label": "Schools",
+          "style": "muted"
+        }
+      ],
       "featured": false,
       "order": 7
     },
@@ -85,7 +128,12 @@
       "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-06.jpeg",
       "alt": "FAM athletes and coaches celebrating together",
       "ariaLabel": "FAM athletes and coaches celebrating together",
-      "tags": [{ "label": "Athletes", "style": "teal" }],
+      "tags": [
+        {
+          "label": "Participants",
+          "style": "teal"
+        }
+      ],
       "featured": false,
       "order": 8
     },
@@ -96,7 +144,12 @@
       "name": "Teacher",
       "meta": "Pakuranga College, November 2023",
       "ariaLabel": "Testimonial from a teacher at Pakuranga College, November 2023",
-      "tags": [{ "label": "Schools", "style": "muted" }],
+      "tags": [
+        {
+          "label": "Schools",
+          "style": "muted"
+        }
+      ],
       "featured": false,
       "order": 9
     },
@@ -106,7 +159,12 @@
       "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-08.jpeg",
       "alt": "Wheelchair athletes training with resistance bands",
       "ariaLabel": "Wheelchair athletes training with resistance bands",
-      "tags": [{ "label": "Athletes", "style": "teal" }],
+      "tags": [
+        {
+          "label": "Participants",
+          "style": "teal"
+        }
+      ],
       "featured": false,
       "order": 10
     },
@@ -117,7 +175,12 @@
       "name": "Teacher",
       "meta": "November 2023",
       "ariaLabel": "Testimonial from a teacher, November 2023",
-      "tags": [{ "label": "Schools", "style": "muted" }],
+      "tags": [
+        {
+          "label": "Schools",
+          "style": "muted"
+        }
+      ],
       "featured": false,
       "order": 11
     },
@@ -127,7 +190,16 @@
       "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-02.jpeg",
       "alt": "Two FAM athletes giving thumbs up at the gym",
       "ariaLabel": "Two FAM athletes giving thumbs up at the gym",
-      "tags": [{ "label": "Athletes", "style": "teal" }, { "label": "Schools", "style": "muted" }],
+      "tags": [
+        {
+          "label": "Participants",
+          "style": "teal"
+        },
+        {
+          "label": "Schools",
+          "style": "muted"
+        }
+      ],
       "featured": false,
       "order": 12
     },
@@ -138,7 +210,12 @@
       "name": "Teacher",
       "meta": "Wilson School, November 2023",
       "ariaLabel": "Testimonial from a teacher at Wilson School, November 2023",
-      "tags": [{ "label": "Schools", "style": "muted" }],
+      "tags": [
+        {
+          "label": "Schools",
+          "style": "muted"
+        }
+      ],
       "featured": false,
       "order": 13
     },
@@ -148,7 +225,12 @@
       "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-03.jpeg",
       "alt": "FAM coach in conversation with young athlete",
       "ariaLabel": "FAM coach in conversation with young athlete",
-      "tags": [{ "label": "Athletes", "style": "teal" }],
+      "tags": [
+        {
+          "label": "Participants",
+          "style": "teal"
+        }
+      ],
       "featured": false,
       "order": 14
     },
@@ -159,7 +241,12 @@
       "name": "Teacher",
       "meta": "Oaklynn Special School, November 2023",
       "ariaLabel": "Testimonial from a teacher at Oaklynn Special School, November 2023",
-      "tags": [{ "label": "Schools", "style": "muted" }],
+      "tags": [
+        {
+          "label": "Schools",
+          "style": "muted"
+        }
+      ],
       "featured": false,
       "order": 15
     },
@@ -169,7 +256,12 @@
       "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-07.jpeg",
       "alt": "FAM coach doing pushups with kids cheering",
       "ariaLabel": "FAM coach doing pushups with kids cheering",
-      "tags": [{ "label": "Athletes", "style": "teal" }],
+      "tags": [
+        {
+          "label": "Participants",
+          "style": "teal"
+        }
+      ],
       "featured": false,
       "order": 16
     },
@@ -179,7 +271,12 @@
       "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-01.jpeg",
       "alt": "FAM group photo outdoors with wheelchair athletes and coaches",
       "ariaLabel": "FAM group photo outdoors with wheelchair athletes and coaches",
-      "tags": [{ "label": "Athletes", "style": "teal" }],
+      "tags": [
+        {
+          "label": "Participants",
+          "style": "teal"
+        }
+      ],
       "featured": false,
       "order": 17
     },
@@ -189,7 +286,12 @@
       "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-05.jpeg",
       "alt": "Two FAM athletes fist bumping at the gym",
       "ariaLabel": "Two FAM athletes fist bumping at the gym",
-      "tags": [{ "label": "Athletes", "style": "teal" }],
+      "tags": [
+        {
+          "label": "Participants",
+          "style": "teal"
+        }
+      ],
       "featured": false,
       "order": 18
     },
@@ -199,9 +301,59 @@
       "src": "https://simonroberto.github.io/session-finder/data/testimonial_images/fam-session-09.jpeg",
       "alt": "FAM Christmas celebration with athletes and coaches",
       "ariaLabel": "FAM Christmas celebration with athletes and coaches",
-      "tags": [{ "label": "Athletes", "style": "teal" }],
+      "tags": [
+        {
+          "label": "Participants",
+          "style": "teal"
+        }
+      ],
       "featured": false,
       "order": 19
+    },
+    {
+      "id": 20,
+      "type": "image",
+      "src": "/FAM-Media/our-story/TUI_1.jpg",
+      "alt": "FAM™Tūī coach guiding a young participant through a cable exercise in the gym",
+      "ariaLabel": "FAM™Tūī coach guiding a young participant through a cable exercise in the gym",
+      "tags": [
+        {
+          "label": "FAM™Tūī Program",
+          "style": "orange"
+        }
+      ],
+      "featured": false,
+      "order": 20
+    },
+    {
+      "id": 21,
+      "type": "image",
+      "src": "/FAM-Media/our-story/TUI_2.jpg",
+      "alt": "FAM™Tūī coach supporting a participant using a cable machine",
+      "ariaLabel": "FAM™Tūī coach supporting a participant using a cable machine",
+      "tags": [
+        {
+          "label": "FAM™Tūī Program",
+          "style": "orange"
+        }
+      ],
+      "featured": false,
+      "order": 21
+    },
+    {
+      "id": 22,
+      "type": "image",
+      "src": "/FAM-Media/our-story/TUI_3.jpg",
+      "alt": "FAM™Tūī physio session with a participant seated on the floor reaching overhead",
+      "ariaLabel": "FAM™Tūī physio session with a participant seated on the floor reaching overhead",
+      "tags": [
+        {
+          "label": "FAM™Tūī Program",
+          "style": "orange"
+        }
+      ],
+      "featured": false,
+      "order": 22
     }
   ]
 }
