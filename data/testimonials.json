@@ -362,7 +362,7 @@
       "id": 23,
       "type": "video",
       "hidden": false,
-      "src": "https://www.youtube.com/watch?v=REPLACE_ME_1",
+      "src": "/FAM-Media/testimonials/FAM_video01.mp4",
       "title": "Example — replace with a real video, then delete \"hidden\"",
       "quote": "Optional short pull-quote from the video.",
       "name": "Speaker name or role",
