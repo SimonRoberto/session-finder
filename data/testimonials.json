@@ -4,7 +4,9 @@
     "description": "FAM testimonials — supports type: quote, type: image and type: video. Edit to add/update. Images live at https://simonroberto.github.io/session-finder/data/testimonial_images/ (Tūī photos: Zoho Sites Files /FAM-Media/our-story/). ariaLabel is the accessible name announced for each card by screen readers. Tag styles: teal, muted, orange. Set \"hidden\": true to keep an entry here without showing it on the site.",
     "videoHelp": "type: video → src = a YouTube link (watch, youtu.be or Shorts), a Vimeo link, or an .mp4 URL. Optional: title, quote, name, meta, duration (e.g. \"1:42\"), poster (image URL; YouTube makes its own if left out), orientation (\"portrait\" for phone-filmed upright video; Shorts are detected automatically), captions (.vtt URL, for .mp4 only — YouTube/Vimeo captions are set on YouTube/Vimeo), transcript (plain text, shown under a 'Read transcript' toggle), tags, featured (shows on the home page), order.",
     "gallery": true,
-    "defaultView": "stories"
+    "defaultView": "stories",
+    "slideshowSeconds": 4, 
+    "slideshow": true
   },
   "testimonials": [
     {
